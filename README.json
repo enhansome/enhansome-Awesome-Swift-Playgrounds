@@ -1,0 +1,2337 @@
+{
+  "items": [
+    {
+      "description": "Please take a quick look at the contribution guidelines first. Thanks to all contributors; you rock!\nIf you see a playground here that does not work anymore with the current release of Xcode or is not a good fit, please submit a pull request to improve this file or consider updating it, thank you!",
+      "items": [],
+      "title": "Contributing"
+    },
+    {
+      "description": "Unless otherwise indicated, all playgrounds are compatible with Swift 3.\nAll the playgrounds are available as submodules in the directory, to download them all in one go, just clone this repository with or execute after you have cloned the repository the usual way.\nApple's playgrounds distributed as zip archives have to be downloaded manually.",
+      "items": [],
+      "title": "Downloading all the playgrounds"
+    },
+    {
+      "description": "🌟 = My personal favorites\n🍁 = Swift 4+ Playground\n⏳ = Pre-Swift 3 Playground",
+      "items": [],
+      "title": "Tags"
+    },
+    {
+      "description": "Playgrounds submitted by students for the WWDC scholarship",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Past Editions: 2025",
+          "description": ", 2024, 2023, 2022, 2021, 2020, 2019, 2018, 2017, 2016, 2015, 2014",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Swift",
+            "last_commit": "2026-08-04T19:24:39Z",
+            "owner": "wwdc",
+            "repo": "2025",
+            "stars": 82
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Latest: 2026",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Swift",
+            "last_commit": "2026-06-22T17:09:07Z",
+            "owner": "wwdc",
+            "repo": "2026",
+            "stars": 41
+          }
+        }
+      ],
+      "title": "WWDC Students Submissions"
+    },
+    {
+      "description": "Playgrounds that can be run on your iPad",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Neural Network Playground",
+          "description": "A neural network Swift playground, with no third party dependencies.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Swift",
+            "last_commit": "2019-02-12T06:49:50Z",
+            "owner": "hetelek",
+            "repo": "Neural-Network-Playground",
+            "stars": 379
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "File Browser Playground",
+          "description": "Simple File Browser for Swift Playgrounds on iOS.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Swift",
+            "last_commit": "2016-09-15T22:39:40Z",
+            "owner": "steventroughtonsmith",
+            "repo": "files-playgroundbook",
+            "stars": 205
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "AudioKit Playground Book",
+          "description": "A set of playgrounds using AudioKit designed for the iPad Playgrounds app.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Swift",
+            "last_commit": "2022-06-02T02:08:52Z",
+            "owner": "AudioKit",
+            "repo": "Playgrounds",
+            "stars": 197
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Numsw",
+          "description": "A swift playground book that mimics some of the features of numpy and jupyter notebook.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Swift",
+            "last_commit": "2017-09-30T22:26:09Z",
+            "owner": "sonsongithub",
+            "repo": "numsw",
+            "stars": 134
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Image Filtering",
+          "description": "A Swift playgroundbook about Image Filtering. 🍁🌟",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Swift",
+            "last_commit": "2020-02-11T21:41:57Z",
+            "owner": "lennet",
+            "repo": "image-filtering",
+            "stars": 82
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Neural Network",
+          "description": "A Swift PlaygroundBook about Neural Networks. 🍁",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Swift",
+            "last_commit": "2019-03-26T10:49:31Z",
+            "owner": "lennet",
+            "repo": "NeuralNetwork",
+            "stars": 58
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "coreml-playground",
+          "description": "Core ML examples for Swift Playgrounds. 🍁",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Swift",
+            "last_commit": "2022-10-09T13:36:11Z",
+            "owner": "kkebo",
+            "repo": "coreml-playground",
+            "stars": 46
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "TJBot Playground",
+          "description": "Swift Playground for interacting with IBM's TJBot. 🍁",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Swift",
+            "last_commit": "2019-05-08T15:53:49Z",
+            "owner": "jweisz",
+            "repo": "tjbot-playground",
+            "stars": 38
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Window Manager Playground",
+          "description": "Playground for an experimental window manager.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Swift",
+            "last_commit": "2016-12-23T13:29:02Z",
+            "owner": "steventroughtonsmith",
+            "repo": "windowmanager-playgroundbook",
+            "stars": 37
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Spacetime Rhapsody",
+          "description": "A Swift Playground visualizing gravity based on Einstein's Theory of General Relativity. 🌟",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Swift",
+            "last_commit": "2017-05-10T19:40:49Z",
+            "owner": "hollisliu",
+            "repo": "Spacetime-Rhapsody",
+            "stars": 28
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Accessible Reality",
+          "description": "for learning the basics of ARKit through interactive lessons. 🍁",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Swift",
+            "last_commit": "2021-06-01T14:30:20Z",
+            "owner": "aheze",
+            "repo": "AccessibleReality",
+            "stars": 28
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Tree Trouble Playbook",
+          "description": "An interactive Swift Playground Book about Binary Search Trees.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Swift",
+            "last_commit": "2017-04-04T20:43:31Z",
+            "owner": "joelrorseth",
+            "repo": "Tree-Trouble",
+            "stars": 25
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Guilloche Pattern Playground Book",
+          "description": "Learn more about this pattern you see every day, but probably never knew it was really carefully designed. 🍁",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Swift",
+            "last_commit": "2020-07-31T09:52:58Z",
+            "owner": "TheWildHorse",
+            "repo": "GuillochePlayground",
+            "stars": 22
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SF Symbols Viewer",
+          "description": "An SF Symbols Viewer for Swift Playgrounds. 🍁",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Swift",
+            "last_commit": "2021-11-15T13:42:14Z",
+            "owner": "kkebo",
+            "repo": "SF-Symbols-Viewer",
+            "stars": 19
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "jscore-playground",
+          "description": "A JavaScript REPL using JavaScriptCore. 🍁",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Swift",
+            "last_commit": "2021-11-15T13:39:19Z",
+            "owner": "kkebo",
+            "repo": "jscore-playground",
+            "stars": 19
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Auto Pong",
+          "description": "A tutorial to implement a pong based on a simple AI.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Swift",
+            "last_commit": "2019-02-14T00:42:07Z",
+            "owner": "cardoso",
+            "repo": "AutoPong",
+            "stars": 13
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Geometry with Swift",
+          "description": "In this course your students will learn the fundamentals of Swift 3 programming, using geometry as their context for learning.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Swift",
+            "last_commit": "2026-03-07T03:32:29Z",
+            "owner": "dbbudd",
+            "repo": "Geometry-Swift-PlaygroundBook",
+            "stars": 11
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Accessibility",
+          "description": "Accessibility for iOS developers. 🍁",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Swift",
+            "last_commit": "2018-04-02T18:50:45Z",
+            "owner": "xReee",
+            "repo": "wwdc2018",
+            "stars": 5
+          }
+        }
+      ],
+      "title": "PlaygroundBooks"
+    },
+    {
+      "description": "Some interesting playgrounds to learn Swift",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "What's new in Swift 4",
+          "description": "An Xcode playground showing off the new features in Swift 4.0. 🍁 🌟",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Swift",
+            "last_commit": "2018-06-08T08:16:11Z",
+            "owner": "ole",
+            "repo": "whats-new-in-swift-4",
+            "stars": 1817
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "The Swift Summary Book",
+          "description": "A summary of Apple's Swift language. 🌟",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Swift",
+            "last_commit": "2021-12-27T21:10:35Z",
+            "owner": "jakarmy",
+            "repo": "swift-summary",
+            "stars": 1662
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "What's new in Swift 4.2",
+          "description": "An Xcode playground showing off the new features in Swift 4.2. 🍁 🌟",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Swift",
+            "last_commit": "2018-09-25T14:16:46Z",
+            "owner": "ole",
+            "repo": "whats-new-in-swift-4-2",
+            "stars": 866
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "The Swift Programming Language Playgrounds",
+          "description": "40+ playgrounds, one for each chapter of Apple's Swift book. 🌟",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Swift",
+            "last_commit": "2021-10-13T20:19:32Z",
+            "owner": "danielpi",
+            "repo": "Swift-Playgrounds",
+            "stars": 232
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Swifter Tips",
+          "description": "Examples for every feature of the Swift language.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Swift",
+            "last_commit": "2016-09-15T02:40:29Z",
+            "owner": "swifter-tips",
+            "repo": "Playground",
+            "stars": 124
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "About Swift",
+          "description": "A playground about Swift language. 🍁",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Swift",
+            "last_commit": "2024-10-12T11:08:55Z",
+            "owner": "NicolaLancellotti",
+            "repo": "about-swift",
+            "stars": 85
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Swift String Cheat Sheet",
+          "description": "A quick guide to using Strings with Swift. 🍁",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Swift",
+            "last_commit": "2023-04-14T11:50:29Z",
+            "owner": "kharrison",
+            "repo": "Playground-Strings",
+            "stars": 61
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Swift Hack Pack",
+          "description": "Collection of playgrounds that teaches Swift.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Swift",
+            "last_commit": "2018-12-21T22:32:41Z",
+            "owner": "GuildSA",
+            "repo": "swift-hack-pack",
+            "stars": 23
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Codable Playground",
+          "description": "Playground that demonstrates advanced uses of Codable. 🍁",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Swift",
+            "last_commit": "2018-09-23T08:43:16Z",
+            "owner": "filip-zielinski",
+            "repo": "CodablePlayground",
+            "stars": 19
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MPCS51032 UChicago iOS Course",
+          "description": "Playgrounds from the 2017 Spring iOS course of the University of Chicago.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Swift",
+            "last_commit": "2017-07-11T03:15:20Z",
+            "owner": "uchicago-mobi",
+            "repo": "mcps51032-2017-spring-playground",
+            "stars": 7
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Generics In Swift",
+          "description": "Playground that explains generics. 🍁",
+          "children": []
+        }
+      ],
+      "title": "Learning Swift"
+    },
+    {
+      "description": "Advanced topics, useful once you have mastered the basics of the language",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "A Swift Introduction to Core Data",
+          "description": "Learn Core Data experimenting directly in this playground. 🌟",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Swift",
+            "last_commit": "2019-09-09T00:20:39Z",
+            "owner": "andyshep",
+            "repo": "CoreDataPlaygrounds",
+            "stars": 154
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Swiftly Typed Resources",
+          "description": "A playground showing how Swift makes Strings, Colors, Fonts, Images, etc easier to deal with. ⏳",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Swift",
+            "last_commit": "2017-05-31T00:14:47Z",
+            "owner": "jstart",
+            "repo": "Swiftly-Typed-Resources",
+            "stars": 74
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "TDDSwiftPlayground",
+          "description": "Demonstration of using Swift Playgrounds in Test Driven Development with XCTest.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Swift",
+            "last_commit": "2019-11-26T09:50:14Z",
+            "owner": "sshrpe",
+            "repo": "TDDSwiftPlayground",
+            "stars": 60
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Modern Core Data",
+          "description": "An introduction to Core Data.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Swift",
+            "last_commit": "2017-09-14T17:04:23Z",
+            "owner": "dfreniche",
+            "repo": "modern-core-data-playground",
+            "stars": 36
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Network Stack",
+          "description": "Clean & simple Swift networking stack playground.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Swift",
+            "last_commit": "2020-07-24T06:53:09Z",
+            "owner": "AndrejKolar",
+            "repo": "NetworkStack",
+            "stars": 34
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Concurrency on iOS",
+          "description": "Concurrency and Parallelism in iOS.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Swift",
+            "last_commit": "2017-05-12T23:51:04Z",
+            "owner": "sammyd",
+            "repo": "2017AtSwift_Concurrency",
+            "stars": 32
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Katan",
+          "description": "A micro web server that replies \"Hello world!\" to every request, an example of how to use sockets in Swift.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Swift",
+            "last_commit": "2017-04-19T02:45:19Z",
+            "owner": "marciok",
+            "repo": "katan",
+            "stars": 25
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Swift DSL Example",
+          "description": "Implementation of a DSL in Swift.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Swift",
+            "last_commit": "2017-06-17T18:57:37Z",
+            "owner": "cfdrake",
+            "repo": "swift-dsl-example",
+            "stars": 20
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Swift Regular Expressions",
+          "description": "A playground to learn regular expressions with Swift.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Swift",
+            "last_commit": "2017-10-03T14:55:00Z",
+            "owner": "ogulcan",
+            "repo": "SwiftRegEx",
+            "stars": 12
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Swift KVO Closures",
+          "description": "Swift KVO playground. ⏳",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Swift",
+            "last_commit": "2014-08-14T00:59:23Z",
+            "owner": "rectalogic",
+            "repo": "KVOPlayground",
+            "stars": 11
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Swift Date Tutorial",
+          "description": "Learn everythig about NSDate. ⏳",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Swift",
+            "last_commit": "2016-01-04T06:38:28Z",
+            "owner": "liuyubobobo",
+            "repo": "Swift-NSDate-Tutorial",
+            "stars": 9
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Swift And C",
+          "description": "Examples about using C with Swift. ⏳",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Swift",
+            "last_commit": "2015-10-30T07:52:05Z",
+            "owner": "MacMark",
+            "repo": "SwiftAndC",
+            "stars": 6
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Swift Memory Management",
+          "description": "How to avoid retain cycles, from this post. ⏳",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Swift",
+            "last_commit": "2016-01-22T02:51:07Z",
+            "owner": "ndethore",
+            "repo": "swift-memory-management",
+            "stars": 3
+          }
+        }
+      ],
+      "title": "Learning Swift: Advanced Topics"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Design Patterns in Swift",
+          "description": "Design patterns in Swift 3.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Swift",
+            "last_commit": "2024-08-03T07:30:28Z",
+            "owner": "ochococo",
+            "repo": "Design-Patterns-In-Swift",
+            "stars": 15257
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "The Principles of OOD in Swift 4",
+          "description": "The Principles of OOD based on Uncle Bob articles.🍁",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Swift",
+            "last_commit": "2026-03-13T20:21:37Z",
+            "owner": "ochococo",
+            "repo": "OOD-Principles-In-Swift",
+            "stars": 1892
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "iOS Design Patterns",
+          "description": "Sample projects for MVC, MVP, MVVM, and VIPER.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Swift",
+            "last_commit": "2020-01-04T14:22:16Z",
+            "owner": "haxpor",
+            "repo": "ios-design-patterns",
+            "stars": 143
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "GOF Swift",
+          "description": "Learn all 23 Gang of Four patterns using Swift.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Swift",
+            "last_commit": "2018-03-20T07:49:37Z",
+            "owner": "SebastianBoldt",
+            "repo": "Gang-of-Four-and-Solid-Principles-in-Swift",
+            "stars": 138
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Design Patterns Playground",
+          "description": "Learning GoF's Design Patterns in Swift 3.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Swift",
+            "last_commit": "2017-07-18T05:43:40Z",
+            "owner": "edopelawi",
+            "repo": "DesignPatternsPlayground",
+            "stars": 27
+          }
+        }
+      ],
+      "title": "Design Patterns"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Swift Diagram Playgrounds",
+          "description": "Adaptation of the Protocol-Oriented Programming in Swift talk from WWDC 2015.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Swift",
+            "last_commit": "2016-09-20T22:37:46Z",
+            "owner": "alskipp",
+            "repo": "Swift-Diagram-Playgrounds",
+            "stars": 277
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Swift Protocol Extensions",
+          "description": "A playground to explore Protocol Extensions. ⏳",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Swift",
+            "last_commit": "2015-08-08T21:47:28Z",
+            "owner": "davidahouse",
+            "repo": "SwiftProtocolExtensions",
+            "stars": 20
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Battleship Example",
+          "description": "An example of how to use Protocol Oriented Programming with the battleship game. ⏳",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Swift",
+            "last_commit": "2018-02-24T20:19:08Z",
+            "owner": "vichudson1",
+            "repo": "Battleship-POP-Example",
+            "stars": 13
+          }
+        }
+      ],
+      "title": "Protocol Oriented Programming"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "ReactiveCocoa Playground",
+          "description": "The easiest way to get a taste of ReactiveCocoa. ⏳",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Swift",
+            "last_commit": "2018-02-12T18:18:23Z",
+            "owner": "nikita-leonov",
+            "repo": "ReactiveCocoaPlayground",
+            "stars": 97
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Swift Reactive Playground",
+          "description": "Companion to the article: ReactiveCocoa made Simple With Swift. ⏳",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Swift",
+            "last_commit": "2014-09-03T15:48:04Z",
+            "owner": "ColinEberhardt",
+            "repo": "SwiftReactivePlayground",
+            "stars": 27
+          }
+        }
+      ],
+      "title": "Functional Reactive Programming"
+    },
+    {
+      "description": "Playgrounds from Apple, usually presented at some WWDC",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Apple's Mandelbrot Playground",
+          "description": "A playground with the mandelbrot fractal (updated to Swift 3 by @palmerc, @kemalenver).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Swift",
+            "last_commit": "2017-03-07T17:59:51Z",
+            "owner": "palmerc",
+            "repo": "Mandelbrot-Swift-Playground",
+            "stars": 24
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Interactive Newton's Cradle",
+          "description": "Apple's interactive playground of a Newton's Cradle where collisions and gravity are applyed with UIKit dynamics. 🌟 (updated to Swift 3 by @p-sun)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Swift",
+            "last_commit": "2018-01-14T23:30:48Z",
+            "owner": "p-sun",
+            "repo": "iOS-Effects-and-Animations",
+            "stars": 10
+          }
+        }
+      ],
+      "title": "Apple's Playgrounds"
+    },
+    {
+      "description": "Playgrounds that describe what you can do with playgrounds",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "XCTest Playground",
+          "description": "Better looking tests for playgrounds.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Swift",
+            "last_commit": "2017-11-05T15:35:49Z",
+            "owner": "Liquidsoul",
+            "repo": "XCTestPlayground",
+            "stars": 54
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Interactive Playground",
+          "description": "Exploring interactivity in Playgrounds.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Swift",
+            "last_commit": "2016-12-07T21:29:01Z",
+            "owner": "dasdom",
+            "repo": "InteractivePlayground",
+            "stars": 53
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Mondrian",
+          "description": "Make iOS app mockups in Swift 2.x playgrounds. ⏳",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Swift",
+            "last_commit": "2016-01-24T07:54:02Z",
+            "owner": "timbellay",
+            "repo": "Mondrian",
+            "stars": 4
+          }
+        }
+      ],
+      "title": "Playgrounds about Playgrounds"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Logician",
+          "description": "Logic programming in Swift. 🌟",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Swift",
+            "last_commit": "2020-05-17T07:04:35Z",
+            "owner": "mdiep",
+            "repo": "Logician",
+            "stars": 201
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Swift Adventures in Monad Land",
+          "description": "Learn about monads.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Swift",
+            "last_commit": "2016-09-15T10:08:19Z",
+            "owner": "alskipp",
+            "repo": "Swift-Adventures-In-Monad-Land",
+            "stars": 173
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Learn about transducers",
+          "description": "A little tutorial that explains transducers. ⏳",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Swift",
+            "last_commit": "2014-11-16T12:28:22Z",
+            "owner": "mbrandonw",
+            "repo": "learn-transducers-playground",
+            "stars": 80
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Swift Functors, Applicatives, and Monads in Pictures",
+          "description": "Companion to the article: Swift Functors, Applicatves, and Monads in Pictures. ⏳",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Swift",
+            "last_commit": "2019-03-16T15:12:53Z",
+            "owner": "mokacoding",
+            "repo": "Swift-Functors-Applicative-Monads-In-Pictures-Playground",
+            "stars": 68
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "OOP with Functions in Swift",
+          "description": "Object-Oriented Programming in Functional Programming in Swift. 🍁",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Swift",
+            "last_commit": "2018-02-26T15:01:47Z",
+            "owner": "iamleeg",
+            "repo": "OOPInFPInSwift",
+            "stars": 59
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Function Composition in Swift",
+          "description": "Exploration of function composition in Swift. 🌟",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Swift",
+            "last_commit": "2017-01-21T17:45:15Z",
+            "owner": "ijoshsmith",
+            "repo": "function-composition-in-swift",
+            "stars": 58
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Functional Debug View",
+          "description": "Playground to visualize functional programming with graphical sequences. 🍁 🌟",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Swift",
+            "last_commit": "2019-08-03T14:14:17Z",
+            "owner": "tomquist",
+            "repo": "DebugView",
+            "stars": 38
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Functors in Swift",
+          "description": "A playground to introduce Functors in Swift, and their practical usage. ⏳",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Swift",
+            "last_commit": "2015-07-12T01:59:48Z",
+            "owner": "mokagio",
+            "repo": "Swift-Functor-Introduction-Playground",
+            "stars": 6
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Functional Design Patterns",
+          "description": "A few functional programming concept and patterns.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Swift",
+            "last_commit": "2017-10-08T18:08:21Z",
+            "owner": "cmvicentehe",
+            "repo": "FunctionalProgrammingDesignPatterns",
+            "stars": 5
+          }
+        }
+      ],
+      "title": "Theoretical Computer Science"
+    },
+    {
+      "description": "Algorithms and data structures implemented in Swift",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Swift Algorithm Club",
+          "description": "Algorithms and data structures in Swift with explanations. 🌟",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Swift",
+            "last_commit": "2024-12-06T07:03:07Z",
+            "owner": "kodecocodes",
+            "repo": "swift-algorithm-club",
+            "stars": 29091
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Expressions",
+          "description": "Arithmetic and logical expressions elegantly modeled and visualized using protocol-oriented binary trees.🍁",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Swift",
+            "last_commit": "2018-02-15T05:43:46Z",
+            "owner": "mpangburn",
+            "repo": "Expressions",
+            "stars": 395
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Julia Fractal Playground",
+          "description": "A Swift playground that generates beautiful Julia set fractal images.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Swift",
+            "last_commit": "2021-11-19T08:04:17Z",
+            "owner": "gongzhang",
+            "repo": "julia-set-playground",
+            "stars": 263
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Visual Binary Trees",
+          "description": "Effortless visualization of arbitrary Binary Trees, along with their pluggable traversal implementations. 🌟",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Swift",
+            "last_commit": "2025-09-20T13:36:18Z",
+            "owner": "akpw",
+            "repo": "VisualBinaryTrees",
+            "stars": 58
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "A Star",
+          "description": "Protocol oriented A* pathfinding algorithm implementation in Swift 4.🍁",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Swift",
+            "last_commit": "2020-08-07T13:23:22Z",
+            "owner": "Dev1an",
+            "repo": "A-Star",
+            "stars": 41
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Animated Sorting Algorithms",
+          "description": "Swift 4 playgrounds to view and manipulate sorting algorithms.🍁",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Swift",
+            "last_commit": "2023-05-05T23:25:53Z",
+            "owner": "p-sun",
+            "repo": "Animated-Sorting-Algorithms",
+            "stars": 37
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "DataStructures Playground",
+          "description": "Data Structures and Algorithms in Swift. ⏳",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Swift",
+            "last_commit": "2015-06-30T20:28:32Z",
+            "owner": "oliverfoggin",
+            "repo": "DataStructuresPlayground",
+            "stars": 16
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Swiftography",
+          "description": "Standard cryptographic algorithms in a Swift Playground. ⏳",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Swift",
+            "last_commit": "2017-11-10T12:42:41Z",
+            "owner": "sketchytech",
+            "repo": "Swiftography",
+            "stars": 8
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Algorithms Playground",
+          "description": "Various algorithm implementation in Swift. ⏳",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Swift",
+            "last_commit": "2015-06-03T03:29:21Z",
+            "owner": "ashokgelal",
+            "repo": "AlgorithmsPlayground",
+            "stars": 6
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "The Jelly Bean Problem",
+          "description": "The Jelly Bean problem from Wait But Why. ⏳",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Swift",
+            "last_commit": "2016-03-10T08:03:02Z",
+            "owner": "kyleweiner",
+            "repo": "Jelly-Bean-Problem",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Euclidean Strings",
+          "description": "A playground leveraging ReSwift to generate Euclidean Strings. ⏳",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Swift",
+            "last_commit": "2016-03-29T03:46:34Z",
+            "owner": "modulusMathews",
+            "repo": "ReEuclid",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Sorting Experiments",
+          "description": "Alluring experiments with sorting algorithms in Swift, sort of.",
+          "children": []
+        }
+      ],
+      "title": "Algorithms and Data Structures"
+    },
+    {
+      "description": "Programming language interpreters implemented in Swift",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Write your own language: Mu",
+          "description": "A playground explaining how to create a tiny programming language named Mu. 🌟",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Swift",
+            "last_commit": "2020-02-06T11:33:34Z",
+            "owner": "marciok",
+            "repo": "Mu",
+            "stars": 1046
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Introduction to Compilers",
+          "description": "Great introduction to the inner workings of compilers. 🍁🌟",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Swift",
+            "last_commit": "2020-04-09T07:43:52Z",
+            "owner": "ahoppen",
+            "repo": "introduction-to-compilers",
+            "stars": 477
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Pascal Interpreter",
+          "description": "Simple Swift interpreter for the Pascal language inspired by the Let’s Build A Simple Interpreter article series. 🍁",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Swift",
+            "last_commit": "2022-11-18T15:25:56Z",
+            "owner": "igorkulman",
+            "repo": "SwiftPascalInterpreter",
+            "stars": 292
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Let's build a compiler in Swift",
+          "description": "Let's Build a Compiler by Jack Crenshaw translated to Swift Playgrounds. 🌟",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Swift",
+            "last_commit": "2018-01-06T03:10:05Z",
+            "owner": "mkchoi212",
+            "repo": "LBAC-Swift",
+            "stars": 162
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Turtle Playground",
+          "description": "A playground with Logo-like commands. 🌟 ⏳",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Swift",
+            "last_commit": "2016-02-20T22:44:31Z",
+            "owner": "dimsumthinking",
+            "repo": "TurtlePlayground",
+            "stars": 126
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ASM Swift",
+          "description": "A playground for learning Assembly language through Swift. 🌟",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Swift",
+            "last_commit": "2017-02-27T23:17:22Z",
+            "owner": "NSExceptional",
+            "repo": "ASM-Swift",
+            "stars": 107
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Register VM",
+          "description": "A register-based VM in a Swift playground. 🌟 ⏳",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Swift",
+            "last_commit": "2022-07-11T06:06:19Z",
+            "owner": "brianhill",
+            "repo": "register-vm-in-swift",
+            "stars": 9
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Swift Brainfuck",
+          "description": "Brainfuck interpreter written in Swift using Playground. ⏳",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Swift",
+            "last_commit": "2014-06-07T14:20:40Z",
+            "owner": "xavieryao",
+            "repo": "Swift-Brainfuck",
+            "stars": 9
+          }
+        }
+      ],
+      "title": "Languages"
+    },
+    {
+      "description": "A list of playgrounds that demostrate various aspect of UIKit and other graphical frameworks",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "UIStackView Playground",
+          "description": "Interesting examples of use of UIStackViews.🌟",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Swift",
+            "last_commit": "2020-06-09T20:25:28Z",
+            "owner": "dasdom",
+            "repo": "UIStackViewPlayground",
+            "stars": 327
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "UIKit playground",
+          "description": "Playgrounds to experiment interactively with UIKit views.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Swift",
+            "last_commit": "2019-10-30T19:20:16Z",
+            "owner": "ralfebert",
+            "repo": "uikit-playground",
+            "stars": 42
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Swift 2.0 Protocol Extension Example",
+          "description": "Showing how to use Swift2 protocol extensions to render errors in UIViews and UIViewControllers without subclassing or creating classes. ⏳",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Swift",
+            "last_commit": "2016-06-07T20:47:11Z",
+            "owner": "jhurray",
+            "repo": "Swift2-Protocol-Extension-Example",
+            "stars": 37
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Swift Clock",
+          "description": "An animated clock in a swift playground. ⏳",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Swift",
+            "last_commit": "2014-11-14T18:56:07Z",
+            "owner": "nickoneill",
+            "repo": "swiftclock",
+            "stars": 29
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Bezier Path Playgrounds",
+          "description": "Some playgrounds to better understand UIBezierPaths.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Swift",
+            "last_commit": "2016-10-09T14:59:52Z",
+            "owner": "DigitalLeaves",
+            "repo": "BezierPathPlaygrounds",
+            "stars": 25
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Ray tracing Playground",
+          "description": "A playground and a series of articles on ray tracing, see also part 2, 3, 4, 5 🌟 ⏳",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Swift",
+            "last_commit": "2016-03-21T23:12:07Z",
+            "owner": "mhorga",
+            "repo": "Raytracing",
+            "stars": 16
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "WatchKit Asset Playground",
+          "description": "A swift playground for creating awesome animations for your WatchKit Apps. ⏳",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Swift",
+            "last_commit": "2015-05-11T17:53:48Z",
+            "owner": "cwimberger",
+            "repo": "WatchKitAssetPlayground",
+            "stars": 8
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "WWDC16 Typography",
+          "description": "🇯🇵 - Draw a logo or any text with the WWDC16 ASCII texture.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Swift",
+            "last_commit": "2017-03-15T14:02:15Z",
+            "owner": "tototti",
+            "repo": "wwdc16_typography_playground",
+            "stars": 7
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "UIDynamic Playground",
+          "description": "Multiple Playgrounds using almost every behaviour of UIDynamic.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Swift",
+            "last_commit": "2017-01-11T10:04:49Z",
+            "owner": "andresbrun",
+            "repo": "UIDynamicsPlayground",
+            "stars": 5
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Animated GIF Playground",
+          "description": "Swift playground for generating animated GIFs.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Swift",
+            "last_commit": "2017-03-29T01:22:46Z",
+            "owner": "danielrhammond",
+            "repo": "GIF-Playground",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Tinting",
+          "description": "A small playground to demonstrate image tinting in UIKit. ⏳",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Swift",
+            "last_commit": "2015-12-03T17:38:47Z",
+            "owner": "Jesse-calkin",
+            "repo": "tinting",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "RPClarity",
+          "description": "Shows a technique for blurring an image behind the characters behind one or more UILabels. ⏳",
+          "children": []
+        },
+        {
+          "node_type": "item",
+          "title": "WWDC16 Logo Playground",
+          "description": "Drawing the WWDC16 logo in a playground. ⏳",
+          "children": []
+        }
+      ],
+      "title": "UIKit And Graphics"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "CoreImage for Swift Playgrounds",
+          "description": "Growing collection of CoreImage playgrounds from the upcoming book \"CoreImage For Swift\". 🌟 ⏳",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Swift",
+            "last_commit": "2017-06-07T18:06:52Z",
+            "owner": "FlexMonkey",
+            "repo": "CoreImageForSwiftPlaygrounds",
+            "stars": 88
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Interpolation Playground",
+          "description": "Playground demonstrating lerp, smooth step, Catcall-Rom and others! ⏳",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Swift",
+            "last_commit": "2020-01-27T13:16:46Z",
+            "owner": "FlexMonkey",
+            "repo": "Interpolation-Playground-",
+            "stars": 63
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Image Processor",
+          "description": "Implementing different image filter algorithms. ⏳",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Swift",
+            "last_commit": "2020-12-23T19:45:47Z",
+            "owner": "mortenbrudvik",
+            "repo": "ImageProcessor",
+            "stars": 9
+          }
+        }
+      ],
+      "title": "Core Image"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Metalbrot",
+          "description": "Interactive playground that draws the Mandelbrot fractal with Metal. 🌟",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Swift",
+            "last_commit": "2021-09-10T18:26:23Z",
+            "owner": "jtbandes",
+            "repo": "metalbrot-playground",
+            "stars": 94
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "METAL Playground",
+          "description": "Apple Metal framework playground. 🌟 ⏳",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Swift",
+            "last_commit": "2014-07-10T19:18:49Z",
+            "owner": "haawa799",
+            "repo": "METAL_Playground",
+            "stars": 56
+          }
+        }
+      ],
+      "title": "Metal"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "UIViewPropertyAnimator Playground",
+          "description": "Playground demonstrating UIViewPropertyAnimator.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Swift",
+            "last_commit": "2017-03-22T19:34:40Z",
+            "owner": "mathewsanders",
+            "repo": "Scrubber",
+            "stars": 37
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Core Animation Swift Playgrounds",
+          "description": "A set of interesting Core Animation playgounds.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Swift",
+            "last_commit": "2017-01-10T23:02:05Z",
+            "owner": "rmirabelli",
+            "repo": "CoreAnimationSwiftPlaygrounds",
+            "stars": 35
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Additive Animations",
+          "description": "Experiment with multiple additive animations in Core Animation. ⏳",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Swift",
+            "last_commit": "2014-06-24T20:33:26Z",
+            "owner": "d-ronnqvist",
+            "repo": "Additive-Animations-Playground",
+            "stars": 35
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "WWDC Crowd Simulator 2017",
+          "description": "A SpriteKit experiment to simulate the WWDC2017 logo crowd.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Swift",
+            "last_commit": "2017-04-21T19:37:58Z",
+            "owner": "neilsardesai",
+            "repo": "WWDC-Crowd-Simulator-2017",
+            "stars": 32
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Duet-Inspired Trail Effect",
+          "description": "How to get a Duet style trailing effect in SpriteKit.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Swift",
+            "last_commit": "2017-05-13T04:29:13Z",
+            "owner": "dionlarson",
+            "repo": "Duet-Trail-Effect-SpriteKit-Playground",
+            "stars": 26
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Core Animation Playground",
+          "description": "Companion to Apple's Core Animation Programming Guide. ⏳",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Swift",
+            "last_commit": "2021-11-19T17:56:46Z",
+            "owner": "knightsc",
+            "repo": "CoreAnimationPlayground",
+            "stars": 9
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Core Animation Timing",
+          "description": "Playground demonstrating effects of CAMediaTiming properties. 🍁",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Swift",
+            "last_commit": "2020-01-23T06:28:07Z",
+            "owner": "Kentzo",
+            "repo": "CoreAnimationTiming",
+            "stars": 1
+          }
+        }
+      ],
+      "title": "Animations"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "SceneKit ARKit Demo",
+          "description": "The Xcode 9 ARKit SpriteKit demo as a playground.🍁",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Swift",
+            "last_commit": "2018-10-16T05:54:01Z",
+            "owner": "mhanlon",
+            "repo": "ARKitDemoPlayground",
+            "stars": 49
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Astronomy",
+          "description": "A 3D earth model written in swift playground using SceneKit.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Swift",
+            "last_commit": "2020-01-11T18:19:27Z",
+            "owner": "cl7",
+            "repo": "Astronomy",
+            "stars": 35
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SpriteKit Collisions",
+          "description": "Demonstrates how to perform physics collision detection using Swift and SpriteKit. ⏳",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Swift",
+            "last_commit": "2018-03-22T20:31:12Z",
+            "owner": "jaredmpayne",
+            "repo": "SpriteKitCollisionsPlayground",
+            "stars": 32
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SceneKit Examples",
+          "description": "Experiment with SceneKit and Swift. ⏳",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Swift",
+            "last_commit": "2015-04-19T10:30:24Z",
+            "owner": "UCh",
+            "repo": "swift-scene-kit-playgrounds",
+            "stars": 21
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SpriteKit Swift 3",
+          "description": "Playground for exploring Sprite Kit.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Swift",
+            "last_commit": "2021-01-20T01:44:14Z",
+            "owner": "MacMeDan",
+            "repo": "SpriteKitCollisions",
+            "stars": 7
+          }
+        }
+      ],
+      "title": "SpriteKit"
+    },
+    {
+      "description": "Sounds and music",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Miles",
+          "description": "A Swift Playground that creates jazz improvisations in any key using AudioToolbox and AVFoundation.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Swift",
+            "last_commit": "2020-04-16T17:54:27Z",
+            "owner": "lalomts",
+            "repo": "Miles",
+            "stars": 35
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Rhythm Snap",
+          "description": "A Swift Playground using Vision and AVFoundation to help you practice rhythm in a fun way.🍁",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Swift",
+            "last_commit": "2023-05-22T23:54:28Z",
+            "owner": "carlosmbe",
+            "repo": "Rhythm-Snap",
+            "stars": 9
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "PlayerNode Playground",
+          "description": "Playground using AVAudioEngine with a playernode and effects to play an audio file. 🌟",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Swift",
+            "last_commit": "2019-12-24T17:41:36Z",
+            "owner": "genedelisa",
+            "repo": "PlayerNodePlayground",
+            "stars": 5
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Bach Playground",
+          "description": "A Simple Swift Playground that plays a brief piece by Bach with AVAudioEngine and AVMIDIPlayer.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Swift",
+            "last_commit": "2016-10-31T21:12:47Z",
+            "owner": "dreamwieber",
+            "repo": "BachPlayground",
+            "stars": 4
+          }
+        }
+      ],
+      "title": "Audio"
+    },
+    {
+      "description": "Live math with playgrounds",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Abstract Algebra",
+          "description": "Abstract algebra concepts implemented in Swift.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Swift",
+            "last_commit": "2021-09-30T06:51:32Z",
+            "owner": "taketo1024",
+            "repo": "swm-core",
+            "stars": 192
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Swift Accelerate",
+          "description": "Using the Accelerate framework and Swift for Linear Algebra. ⏳",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Swift",
+            "last_commit": "2017-05-14T19:05:25Z",
+            "owner": "haginile",
+            "repo": "SwiftAccelerate",
+            "stars": 119
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Guilloche Pattern Playground Book",
+          "description": "Learn more about this pattern you see every day, but probably never knew it was really carefully designed. 🍁",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Swift",
+            "last_commit": "2020-07-31T09:52:58Z",
+            "owner": "TheWildHorse",
+            "repo": "GuillochePlayground",
+            "stars": 22
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Lindenmayer Systems",
+          "description": "A Swift playground exploring Lindemayer systems.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Swift",
+            "last_commit": "2017-01-22T18:17:23Z",
+            "owner": "henrinormak",
+            "repo": "lindenmayer",
+            "stars": 12
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Swifty Mathematics",
+          "description": "A collection of swift playground about mathematics. ⏳",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Swift",
+            "last_commit": "2016-11-17T21:08:57Z",
+            "owner": "DylanModesitt",
+            "repo": "swiftyMathematics",
+            "stars": 4
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Swift Natural Numbers",
+          "description": "A playground for implementing the natural numbers and more concepts in number theory.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Swift",
+            "last_commit": "2016-06-16T22:34:30Z",
+            "owner": "jakebromberg",
+            "repo": "Swift-Natural-Numbers",
+            "stars": 3
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Polydoxical",
+          "description": "Interactive playground to experiment with roulettes and polygons.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Swift",
+            "last_commit": "2017-04-22T01:33:37Z",
+            "owner": "ozziek",
+            "repo": "Polydoxical",
+            "stars": 0
+          }
+        }
+      ],
+      "title": "Mathematics"
+    },
+    {
+      "description": "Library tutorials, in a playground",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "AIToolbox",
+          "description": "A set of playgrounds showing machine learning algorithms, all implemented with pieces of the AIToolbox framework code.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Swift",
+            "last_commit": "2020-08-09T19:45:37Z",
+            "owner": "KevinCoble",
+            "repo": "AIToolbox",
+            "stars": 805
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Cognitive Service APIs",
+          "description": "Get started with the Microsoft Cognitive Services APIs.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Swift",
+            "last_commit": "2018-09-17T15:01:37Z",
+            "owner": "codePrincess",
+            "repo": "playgrounds",
+            "stars": 56
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Rx Playground",
+          "description": "A playground with RxSwift examples.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Swift",
+            "last_commit": "2020-03-25T04:10:54Z",
+            "owner": "sgr-ksmt",
+            "repo": "RxPlayground",
+            "stars": 6
+          }
+        }
+      ],
+      "title": "Libraries and APIs"
+    },
+    {
+      "description": "Sets of playgrounds about various topics",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Public Extensions",
+          "description": "A set of useful extensions from @PublicExtension. 🌟",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Swift",
+            "last_commit": "2018-02-27T15:53:12Z",
+            "owner": "mergesort",
+            "repo": "Public-Extension",
+            "stars": 298
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Parks And Recreation",
+          "description": "Great collection of interesting playgrounds, for fun and for profit. 🍁🌟",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Swift",
+            "last_commit": "2025-07-20T09:25:57Z",
+            "owner": "zwaldowski",
+            "repo": "ParksAndRecreation",
+            "stars": 178
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "URaimo's Playgrounds",
+          "description": "My playgrounds, various topics. 🍁",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Swift",
+            "last_commit": "2019-02-13T15:53:52Z",
+            "owner": "uraimo",
+            "repo": "Swift-Playgrounds",
+            "stars": 138
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Cocoa With Love Playgrounds",
+          "description": "Playground versions of select articles from Cocoa with Love. 🌟",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Swift",
+            "last_commit": "2018-10-25T11:40:21Z",
+            "owner": "mattgallagher",
+            "repo": "CocoaWithLovePlaygrounds",
+            "stars": 88
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "BradLarson's Playgrounds",
+          "description": "Various playgrounds. ⏳",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Swift",
+            "last_commit": "2014-09-29T14:44:44Z",
+            "owner": "BradLarson",
+            "repo": "PersonalSwiftPlaygrounds",
+            "stars": 20
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Dmikusa's Playgrounds",
+          "description": "Playgrounds that show basic Swift, JSON parsing, sending HTTP requests and basic file IO. ⏳",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Swift",
+            "last_commit": "2015-07-13T02:58:12Z",
+            "owner": "dmikusa",
+            "repo": "swift_playgrounds",
+            "stars": 16
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Mgrebenets's Playgrounds",
+          "description": "Various playgrounds.c 🌟",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Swift",
+            "last_commit": "2018-02-05T04:07:29Z",
+            "owner": "mgrebenets",
+            "repo": "playgrounds",
+            "stars": 9
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Swift fun playgrounds",
+          "description": "A few playgrounds to showcase Swift peculiar features. ⏳",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Swift",
+            "last_commit": "2015-03-17T23:55:19Z",
+            "owner": "m4tbat",
+            "repo": "Swift-fun-playgrounds",
+            "stars": 8
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Sketchytech's Playgrounds",
+          "description": "Various Playgrounds. 🌟 ⏳",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Swift",
+            "last_commit": "2015-07-07T09:34:53Z",
+            "owner": "sketchytech",
+            "repo": "SwiftPlaygrounds",
+            "stars": 7
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Uberbruns's Playgrounds",
+          "description": "Various playgrounds. ⏳",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2023-08-22T14:24:43Z",
+            "owner": "uberbruns",
+            "repo": "SwiftPlaygrounds",
+            "stars": 4
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Cananito's Playgrounds",
+          "description": "Various playgrounds. ⏳",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Swift",
+            "last_commit": "2017-08-07T03:33:08Z",
+            "owner": "Cananito",
+            "repo": "Playgrounds",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ManuelCarlos's Playgrouds",
+          "description": "Various playgrounds.",
+          "children": []
+        }
+      ],
+      "title": "Playground Sets"
+    },
+    {
+      "description": "What doesn't fit anywhere else, but still awesome",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Game Boards",
+          "description": "Chess, checkers, tic-tac-toe, sudoku and many others in playground. 🌟 ⏳",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Swift",
+            "last_commit": "2026-08-10T18:52:54Z",
+            "owner": "joalbright",
+            "repo": "Gameboard",
+            "stars": 182
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Pixel Art Maker",
+          "description": "A playground where you can make pixel art.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Swift",
+            "last_commit": "2020-01-27T16:32:04Z",
+            "owner": "BenEmdon",
+            "repo": "PixelArtMaker",
+            "stars": 123
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2048 Playground",
+          "description": "The 2048 game implemented with a playground.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Swift",
+            "last_commit": "2018-12-07T19:13:49Z",
+            "owner": "robin",
+            "repo": "2048_Playground",
+            "stars": 44
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SwiftFiles",
+          "description": "Save, Load and Delete files easily from within a Swift playground. ⏳",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Swift",
+            "last_commit": "2016-05-08T10:41:46Z",
+            "owner": "sketchytech",
+            "repo": "SwiftFiles",
+            "stars": 42
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Icon Creator",
+          "description": "Create app icons on Swift playground.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Swift",
+            "last_commit": "2023-01-19T14:53:23Z",
+            "owner": "tnantoka",
+            "repo": "IconCreator",
+            "stars": 37
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SwiftCoin",
+          "description": "A simplistic blockchain & cryptocurrency in a playground.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Swift",
+            "last_commit": "2017-08-16T07:40:03Z",
+            "owner": "Thomvis",
+            "repo": "Swiftcoin",
+            "stars": 32
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Rubik's Cube",
+          "description": "Implementing basic model and behavior of Rubic's Cube in Swift. 🍁",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Swift",
+            "last_commit": "2020-05-18T21:03:18Z",
+            "owner": "codelynx",
+            "repo": "CoreRubiksCube",
+            "stars": 21
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SwiftShell",
+          "description": "Bash shell in a playground.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Swift",
+            "last_commit": "2018-07-18T04:07:56Z",
+            "owner": "JustinJiaDev",
+            "repo": "SwiftShell",
+            "stars": 21
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SentimentlySwift",
+          "description": "Sentiment analysis in Swift.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Swift",
+            "last_commit": "2017-07-06T17:41:09Z",
+            "owner": "benbahrenburg",
+            "repo": "SentimentlySwift",
+            "stars": 13
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Super Maze",
+          "description": "A programmatic maze generator and solver.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Swift",
+            "last_commit": "2017-04-03T18:25:06Z",
+            "owner": "W00dL3cs",
+            "repo": "Super-Maze",
+            "stars": 9
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Tic Tac Toe",
+          "description": "Tic tac toe in a playground.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Swift",
+            "last_commit": "2017-04-16T05:33:04Z",
+            "owner": "aabosh",
+            "repo": "Tic-Tac-Toe",
+            "stars": 8
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Earth photos",
+          "description": "A slideshow of Earth photos taken by DSCOVR/EPIC. 🌟 ⏳",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Swift",
+            "last_commit": "2021-09-10T18:27:14Z",
+            "owner": "jtbandes",
+            "repo": "DSCOVR.playground",
+            "stars": 6
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "LaunchPad Playground",
+          "description": "A playground that simulates a real LaunchPad for making music.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Swift",
+            "last_commit": "2018-04-17T12:06:53Z",
+            "owner": "Juniorlimaivd",
+            "repo": "LaunchPad-Playground",
+            "stars": 5
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "StarWars Seals",
+          "description": "Emblems from Star Wars in Swift playgrounds via CoreGraphics and UIViews. ⏳",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Swift",
+            "last_commit": "2018-05-20T18:33:23Z",
+            "owner": "jeremyconkin",
+            "repo": "StarWarsSeals",
+            "stars": 3
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SwiftChain",
+          "description": "Simple Cryptocurrency in a Swift Playground.",
+          "children": []
+        }
+      ],
+      "title": "Miscellaneous"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T20:29:55.195Z",
+    "original_repository": "uraimo/Awesome-Swift-Playgrounds",
+    "original_repository_sha": "fed28248bd31ff829c2223233da2e53dc77b6581",
+    "enhanced_repository": "enhansome/enhansome-Awesome-Swift-Playgrounds",
+    "enhanced_repository_description": null,
+    "title": "Awesome Swift Playgrounds with stars"
+  }
+}
