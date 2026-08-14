@@ -4,7 +4,7 @@
 
 ### Contributing
 
-Please take a quick look at the [contribution guidelines](https://github.com/uraimo/awesome-swift-playgrounds/blob/master/CONTRIBUTING.md) ⭐ 4,384 | 🐛 1 | 🌐 Swift | 📅 2026-04-02 first. Thanks to all [contributors](https://github.com/uraimo/awesome-swift-playgrounds/graphs/contributors) ⭐ 4,384 | 🐛 1 | 🌐 Swift | 📅 2026-04-02; you rock!
+Please take a quick look at the [contribution guidelines](https://github.com/uraimo/awesome-swift-playgrounds/blob/master/CONTRIBUTING.md) ⭐ 4,385 | 🐛 1 | 🌐 Swift | 📅 2026-04-02 first. Thanks to all [contributors](https://github.com/uraimo/awesome-swift-playgrounds/graphs/contributors) ⭐ 4,385 | 🐛 1 | 🌐 Swift | 📅 2026-04-02; you rock!
 
 If you see a playground here that does not work anymore with the current release of Xcode or is not a good fit, please submit a pull request to improve this file or consider updating it, thank you!
 
@@ -117,7 +117,7 @@ Apple's playgrounds distributed as zip archives have to be downloaded manually.
 
 ### Design Patterns
 
-* [Design Patterns in Swift](https://github.com/ochococo/Design-Patterns-In-Swift) ⭐ 15,257 | 🐛 4 | 🌐 Swift | 📅 2024-08-03 - Design patterns in Swift 3.
+* [Design Patterns in Swift](https://github.com/ochococo/Design-Patterns-In-Swift) ⭐ 15,258 | 🐛 4 | 🌐 Swift | 📅 2024-08-03 - Design patterns in Swift 3.
 * [The Principles of OOD in Swift 4](https://github.com/ochococo/OOD-Principles-In-Swift) ⭐ 1,892 | 🐛 0 | 🌐 Swift | 📅 2026-03-13 - The Principles of OOD based on Uncle Bob articles.🍁
 * [iOS Design Patterns](https://github.com/haxpor/ios-design-patterns) ⭐ 143 | 🐛 1 | 🌐 Swift | 📅 2020-01-04 - Sample projects for MVC, MVP, MVVM, and VIPER.
 * [GOF Swift](https://github.com/SebastianBoldt/Gang-of-Four-and-Solid-Principles-in-Swift) ⭐ 138 | 🐛 0 | 🌐 Swift | 📅 2018-03-20 - Learn all 23 Gang of Four patterns using Swift.
@@ -321,4 +321,4 @@ Apple's playgrounds distributed as zip archives have to be downloaded manually.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-13._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-14._

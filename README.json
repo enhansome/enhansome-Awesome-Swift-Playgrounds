@@ -661,7 +661,7 @@
             "last_commit": "2024-08-03T07:30:28Z",
             "owner": "ochococo",
             "repo": "Design-Patterns-In-Swift",
-            "stars": 15257
+            "stars": 15258
           }
         },
         {
@@ -2327,7 +2327,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-13T20:29:55.195Z",
+    "last_updated": "2026-08-14T20:21:00.280Z",
     "original_repository": "uraimo/Awesome-Swift-Playgrounds",
     "original_repository_sha": "fed28248bd31ff829c2223233da2e53dc77b6581",
     "enhanced_repository": "enhansome/enhansome-Awesome-Swift-Playgrounds",
