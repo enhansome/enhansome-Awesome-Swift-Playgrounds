@@ -1227,7 +1227,7 @@
             "last_commit": "2022-11-18T15:25:56Z",
             "owner": "igorkulman",
             "repo": "SwiftPascalInterpreter",
-            "stars": 292
+            "stars": 293
           }
         },
         {
@@ -2327,7 +2327,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-17T20:14:12.181Z",
+    "last_updated": "2026-08-18T20:11:18.094Z",
     "original_repository": "uraimo/Awesome-Swift-Playgrounds",
     "original_repository_sha": "fed28248bd31ff829c2223233da2e53dc77b6581",
     "enhanced_repository": "enhansome/enhansome-Awesome-Swift-Playgrounds",

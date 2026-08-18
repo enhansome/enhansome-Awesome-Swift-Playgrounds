@@ -193,7 +193,7 @@ Apple's playgrounds distributed as zip archives have to be downloaded manually.
 
 * [Write your own language: Mu](https://github.com/marciok/Mu) ⭐ 1,046 | 🐛 1 | 🌐 Swift | 📅 2020-02-06 - A playground explaining how to create a tiny programming language named Mu. 🌟
 * [Introduction to Compilers](https://github.com/ahoppen/introduction-to-compilers) ⭐ 477 | 🐛 0 | 🌐 Swift | 📅 2020-04-09 - Great introduction to the inner workings of compilers. 🍁🌟
-* [Pascal Interpreter](https://github.com/igorkulman/SwiftPascalInterpreter) ⭐ 292 | 🐛 0 | 🌐 Swift | 📅 2022-11-18 - Simple Swift interpreter for the Pascal language inspired by the Let’s Build A Simple Interpreter article series. 🍁
+* [Pascal Interpreter](https://github.com/igorkulman/SwiftPascalInterpreter) ⭐ 293 | 🐛 0 | 🌐 Swift | 📅 2022-11-18 - Simple Swift interpreter for the Pascal language inspired by the Let’s Build A Simple Interpreter article series. 🍁
 * [Let's build a compiler in Swift](https://github.com/mkchoi212/LBAC-Swift) ⭐ 162 | 🐛 0 | 🌐 Swift | 📅 2018-01-06 - Let's Build a Compiler by Jack Crenshaw translated to Swift Playgrounds. 🌟
 * [Turtle Playground](https://github.com/dimsumthinking/TurtlePlayground) ⭐ 126 | 🐛 1 | 🌐 Swift | 📅 2016-02-20 - A playground with Logo-like commands. 🌟 ⏳
 * [ASM Swift](https://github.com/NSExceptional/ASM-Swift) ⭐ 107 | 🐛 0 | 🌐 Swift | 📅 2017-02-27 - A playground for learning Assembly language through Swift. 🌟
@@ -321,4 +321,4 @@ Apple's playgrounds distributed as zip archives have to be downloaded manually.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-17._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-18._
