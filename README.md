@@ -246,7 +246,7 @@ Apple's playgrounds distributed as zip archives have to be downloaded manually.
 ### SpriteKit
 
 * [SceneKit ARKit Demo](https://github.com/mhanlon/ARKitDemoPlayground) ⭐ 49 | 🐛 0 | 🌐 Swift | 📅 2018-10-16 - The Xcode 9 ARKit SpriteKit demo as a playground.🍁
-* [Astronomy](https://github.com/cl7/Astronomy) ⭐ 35 | 🐛 0 | 🌐 Swift | 📅 2020-01-11 - A 3D earth model written in swift playground using SceneKit.
+* [Astronomy](https://github.com/cl7/Astronomy) ⭐ 36 | 🐛 0 | 🌐 Swift | 📅 2020-01-11 - A 3D earth model written in swift playground using SceneKit.
 * [SpriteKit Collisions](https://github.com/jaredmpayne/SpriteKitCollisionsPlayground) ⭐ 32 | 🐛 0 | 🌐 Swift | 📅 2018-03-22 - Demonstrates how to perform physics collision detection using Swift and SpriteKit. ⏳
 * [SceneKit Examples](https://github.com/UCh/swift-scene-kit-playgrounds) ⭐ 21 | 🐛 1 | 🌐 Swift | 📅 2015-04-19 - Experiment with SceneKit and Swift. ⏳
 * [SpriteKit Swift 3](https://github.com/MacMeDan/SpriteKitCollisions) ⭐ 7 | 🐛 0 | 🌐 Swift | 📅 2021-01-20 - Playground for exploring Sprite Kit.
@@ -321,4 +321,4 @@ Apple's playgrounds distributed as zip archives have to be downloaded manually.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-18._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-19._
