@@ -4,7 +4,7 @@
 
 ### Contributing
 
-Please take a quick look at the [contribution guidelines](https://github.com/uraimo/awesome-swift-playgrounds/blob/master/CONTRIBUTING.md) ⭐ 4,385 | 🐛 1 | 🌐 Swift | 📅 2026-04-02 first. Thanks to all [contributors](https://github.com/uraimo/awesome-swift-playgrounds/graphs/contributors) ⭐ 4,385 | 🐛 1 | 🌐 Swift | 📅 2026-04-02; you rock!
+Please take a quick look at the [contribution guidelines](https://github.com/uraimo/awesome-swift-playgrounds/blob/master/CONTRIBUTING.md) ⭐ 4,386 | 🐛 1 | 🌐 Swift | 📅 2026-04-02 first. Thanks to all [contributors](https://github.com/uraimo/awesome-swift-playgrounds/graphs/contributors) ⭐ 4,386 | 🐛 1 | 🌐 Swift | 📅 2026-04-02; you rock!
 
 If you see a playground here that does not work anymore with the current release of Xcode or is not a good fit, please submit a pull request to improve this file or consider updating it, thank you!
 
@@ -65,7 +65,7 @@ Apple's playgrounds distributed as zip archives have to be downloaded manually.
 * [Neural Network Playground](https://github.com/hetelek/Neural-Network-Playground) ⭐ 379 | 🐛 1 | 🌐 Swift | 📅 2019-02-12 - A neural network Swift playground, with no third party dependencies.
 * [File Browser Playground](https://github.com/steventroughtonsmith/files-playgroundbook) ⭐ 205 | 🐛 2 | 🌐 Swift | 📅 2016-09-15 - Simple File Browser for Swift Playgrounds on iOS.
 * [AudioKit Playground Book](https://github.com/audiokit/Playgrounds) ⭐ 197 | 🐛 10 | 🌐 Swift | 📅 2022-06-02 - A set of playgrounds using AudioKit designed for the iPad Playgrounds app.
-* [Numsw](https://github.com/sonsongithub/numsw) ⭐ 134 | 🐛 7 | 🌐 Swift | 📅 2017-09-30 - A swift playground book that mimics some of the features of numpy and jupyter notebook.
+* [Numsw](https://github.com/sonsongithub/numsw) ⭐ 133 | 🐛 7 | 🌐 Swift | 📅 2017-09-30 - A swift playground book that mimics some of the features of numpy and jupyter notebook.
 * [Image Filtering](https://github.com/lennet/image-filtering) ⭐ 82 | 🐛 0 | 🌐 Swift | 📅 2020-02-11 - A Swift playgroundbook about Image Filtering. 🍁🌟
 * [Neural Network](https://github.com/lennet/neuralnetwork) ⭐ 58 | 🐛 0 | 🌐 Swift | 📅 2019-03-26 - A Swift PlaygroundBook about Neural Networks. 🍁
 * [coreml-playground](https://github.com/kkk669/coreml-playground) ⚠️ Archived - Core ML examples for Swift Playgrounds. 🍁
@@ -117,7 +117,7 @@ Apple's playgrounds distributed as zip archives have to be downloaded manually.
 
 ### Design Patterns
 
-* [Design Patterns in Swift](https://github.com/ochococo/Design-Patterns-In-Swift) ⭐ 15,258 | 🐛 4 | 🌐 Swift | 📅 2024-08-03 - Design patterns in Swift 3.
+* [Design Patterns in Swift](https://github.com/ochococo/Design-Patterns-In-Swift) ⭐ 15,257 | 🐛 4 | 🌐 Swift | 📅 2024-08-03 - Design patterns in Swift 3.
 * [The Principles of OOD in Swift 4](https://github.com/ochococo/OOD-Principles-In-Swift) ⭐ 1,893 | 🐛 0 | 🌐 Swift | 📅 2026-03-13 - The Principles of OOD based on Uncle Bob articles.🍁
 * [iOS Design Patterns](https://github.com/haxpor/ios-design-patterns) ⭐ 143 | 🐛 1 | 🌐 Swift | 📅 2020-01-04 - Sample projects for MVC, MVP, MVVM, and VIPER.
 * [GOF Swift](https://github.com/SebastianBoldt/Gang-of-Four-and-Solid-Principles-in-Swift) ⭐ 138 | 🐛 0 | 🌐 Swift | 📅 2018-03-20 - Learn all 23 Gang of Four patterns using Swift.
@@ -156,7 +156,7 @@ Apple's playgrounds distributed as zip archives have to be downloaded manually.
 
 *Playgrounds derived from iPad Swift Playgroundbooks*
 
-* [iPad Swift Playgrounds](https://github.com/kushtaneja/iPad_Swift_Playgrounds) ⭐ 31 | 🐛 0 | 🌐 Swift | 📅 2017-03-09 - The sample playgroundbooks converted to playgrounds.
+* [iPad Swift Playgrounds](https://github.com/kushtaneja/iPad_Swift_Playgrounds) ⭐ 30 | 🐛 0 | 🌐 Swift | 📅 2017-03-09 - The sample playgroundbooks converted to playgrounds.
 
 ## Theoretical Computer Science
 
@@ -321,4 +321,4 @@ Apple's playgrounds distributed as zip archives have to be downloaded manually.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-19._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-20._
