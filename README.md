@@ -56,7 +56,7 @@ Apple's playgrounds distributed as zip archives have to be downloaded manually.
 *Playgrounds submitted by students for the WWDC scholarship*
 
 * Past Editions: [2025](https://github.com/wwdc/2025) ⭐ 82 | 🐛 0 | 🌐 Swift | 📅 2026-08-04, [2024](https://github.com/wwdc/2024) ⭐ 6 | 🐛 0 | 🌐 Swift | 📅 2025-08-19, [2023](https://github.com/wwdc/2023) ⭐ 99 | 🐛 0 | 🌐 Swift | 📅 2025-02-21, [2022](https://github.com/wwdc/2022) ⭐ 159 | 🐛 0 | 🌐 Swift | 📅 2025-06-13, [2021](https://github.com/wwdc/2021) ⭐ 184 | 🐛 0 | 🌐 Swift | 📅 2026-08-07, [2020](https://github.com/wwdc/2020) ⭐ 216 | 🐛 1 | 🌐 Swift | 📅 2025-02-26, [2019](https://github.com/wwdc/2019) ⭐ 283 | 🐛 3 | 📅 2026-08-07, [2018](https://github.com/wwdc/2018) ⭐ 265 | 🐛 3 | 📅 2021-09-27, [2017](https://github.com/wwdc/2017) ⭐ 240 | 🐛 0 | 📅 2019-03-28, [2016](https://github.com/wwdc/2016) ⭐ 83 | 🐛 0 | 📅 2018-04-11, [2015](https://github.com/wwdc/2015) ⭐ 132 | 🐛 0 | 📅 2018-11-06, [2014](https://github.com/wwdc/2014) ⭐ 183 | 🐛 0 | 📅 2021-06-04
-* Latest: [2026](https://github.com/wwdc/2026) ⭐ 41 | 🐛 2 | 🌐 Swift | 📅 2026-06-22
+* Latest: [2026](https://github.com/wwdc/2026) ⭐ 40 | 🐛 2 | 🌐 Swift | 📅 2026-06-22
 
 ## PlaygroundBooks
 
@@ -117,7 +117,7 @@ Apple's playgrounds distributed as zip archives have to be downloaded manually.
 
 ### Design Patterns
 
-* [Design Patterns in Swift](https://github.com/ochococo/Design-Patterns-In-Swift) ⭐ 15,257 | 🐛 4 | 🌐 Swift | 📅 2024-08-03 - Design patterns in Swift 3.
+* [Design Patterns in Swift](https://github.com/ochococo/Design-Patterns-In-Swift) ⭐ 15,256 | 🐛 4 | 🌐 Swift | 📅 2024-08-03 - Design patterns in Swift 3.
 * [The Principles of OOD in Swift 4](https://github.com/ochococo/OOD-Principles-In-Swift) ⭐ 1,893 | 🐛 0 | 🌐 Swift | 📅 2026-03-13 - The Principles of OOD based on Uncle Bob articles.🍁
 * [iOS Design Patterns](https://github.com/haxpor/ios-design-patterns) ⭐ 143 | 🐛 1 | 🌐 Swift | 📅 2020-01-04 - Sample projects for MVC, MVP, MVVM, and VIPER.
 * [GOF Swift](https://github.com/SebastianBoldt/Gang-of-Four-and-Solid-Principles-in-Swift) ⭐ 138 | 🐛 0 | 🌐 Swift | 📅 2018-03-20 - Learn all 23 Gang of Four patterns using Swift.
@@ -202,7 +202,7 @@ Apple's playgrounds distributed as zip archives have to be downloaded manually.
 
 ### Machine Learning
 
-* [Emoji Intelligence](https://github.com/BilalReffas/EmojiIntelligence) ⭐ 1,425 | 🐛 0 | 🌐 Swift | 📅 2018-08-21 - Neural Network built in Apple Playground using Swift. 🌟
+* [Emoji Intelligence](https://github.com/BilalReffas/EmojiIntelligence) ⭐ 1,426 | 🐛 0 | 🌐 Swift | 📅 2018-08-21 - Neural Network built in Apple Playground using Swift. 🌟
 
 ## UIKit And Graphics
 
@@ -321,4 +321,4 @@ Apple's playgrounds distributed as zip archives have to be downloaded manually.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-20._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-21._
