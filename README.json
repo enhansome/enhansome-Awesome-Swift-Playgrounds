@@ -680,7 +680,7 @@
                 "last_commit": "2024-08-03T07:30:28Z",
                 "owner": "ochococo",
                 "repo": "Design-Patterns-In-Swift",
-                "stars": 15256
+                "stars": 15255
               }
             },
             {
@@ -1363,6 +1363,28 @@
           "description": "Programming language interpreters implemented in Swift",
           "node_type": "group",
           "title": "Languages"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Emoji Intelligence",
+              "description": "Neural Network built in Apple Playground using Swift. 🌟",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 87763802,
+                "language": "Swift",
+                "last_commit": "2018-08-21T19:41:25Z",
+                "owner": "BilalReffas",
+                "repo": "EmojiIntelligence",
+                "stars": 1427
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Machine Learning"
         }
       ],
       "title": "Theoretical Computer Science"
@@ -2438,7 +2460,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-23T20:10:21.219Z",
+    "last_updated": "2026-08-24T13:59:50.088Z",
     "original_repository": "uraimo/Awesome-Swift-Playgrounds",
     "original_repository_id": 50719620,
     "original_repository_sha": "fed28248bd31ff829c2223233da2e53dc77b6581",
