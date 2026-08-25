@@ -680,7 +680,7 @@
                 "last_commit": "2024-08-03T07:30:28Z",
                 "owner": "ochococo",
                 "repo": "Design-Patterns-In-Swift",
-                "stars": 15256
+                "stars": 15257
               }
             },
             {
@@ -1079,7 +1079,7 @@
                 "last_commit": "2024-12-06T07:03:07Z",
                 "owner": "kodecocodes",
                 "repo": "swift-algorithm-club",
-                "stars": 29090
+                "stars": 29089
               }
             },
             {
@@ -2460,7 +2460,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T05:51:13.443Z",
+    "last_updated": "2026-08-25T20:16:18.274Z",
     "original_repository": "uraimo/Awesome-Swift-Playgrounds",
     "original_repository_id": 50719620,
     "original_repository_sha": "fed28248bd31ff829c2223233da2e53dc77b6581",
