@@ -156,7 +156,7 @@ Apple's playgrounds distributed as zip archives have to be downloaded manually.
 
 *Playgrounds derived from iPad Swift Playgroundbooks*
 
-* [iPad Swift Playgrounds](https://github.com/kushtaneja/iPad_Swift_Playgrounds) ⭐ 30 | 🐛 0 | 🌐 Swift | 📅 2017-03-09 - The sample playgroundbooks converted to playgrounds.
+* [iPad Swift Playgrounds](https://github.com/kushtaneja/iPad_Swift_Playgrounds) ⭐ 31 | 🐛 0 | 🌐 Swift | 📅 2017-03-09 - The sample playgroundbooks converted to playgrounds.
 
 ## Theoretical Computer Science
 
@@ -321,4 +321,4 @@ Apple's playgrounds distributed as zip archives have to be downloaded manually.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-24._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-25._
