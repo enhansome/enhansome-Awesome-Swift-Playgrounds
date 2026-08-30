@@ -3711,7 +3711,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T22:05:54.036Z",
+    "last_updated": "2026-08-30T22:12:53.373Z",
     "original_repository_info": {
       "archived": false,
       "description": "A List of Awesome Swift Playgrounds",
@@ -3723,7 +3723,7 @@
       "open_issues": 1,
       "owner": "uraimo",
       "repo": "Awesome-Swift-Playgrounds",
-      "stars": 4387,
+      "stars": 4386,
       "topics": [
         "apple",
         "apple-playground",

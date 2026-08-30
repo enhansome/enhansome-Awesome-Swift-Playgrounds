@@ -4,7 +4,7 @@
 
 ### Contributing
 
-Please take a quick look at the [contribution guidelines](https://github.com/uraimo/awesome-swift-playgrounds/blob/master/CONTRIBUTING.md) ⭐ 4,387 | 🐛 1 | 🌐 Swift | 📅 2026-04-02 first. Thanks to all [contributors](https://github.com/uraimo/awesome-swift-playgrounds/graphs/contributors) ⭐ 4,387 | 🐛 1 | 🌐 Swift | 📅 2026-04-02; you rock!
+Please take a quick look at the [contribution guidelines](https://github.com/uraimo/awesome-swift-playgrounds/blob/master/CONTRIBUTING.md) ⭐ 4,386 | 🐛 1 | 🌐 Swift | 📅 2026-04-02 first. Thanks to all [contributors](https://github.com/uraimo/awesome-swift-playgrounds/graphs/contributors) ⭐ 4,386 | 🐛 1 | 🌐 Swift | 📅 2026-04-02; you rock!
 
 If you see a playground here that does not work anymore with the current release of Xcode or is not a good fit, please submit a pull request to improve this file or consider updating it, thank you!
 
@@ -321,4 +321,4 @@ Apple's playgrounds distributed as zip archives have to be downloaded manually.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-29._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-30._
