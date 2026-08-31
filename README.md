@@ -177,7 +177,7 @@ Apple's playgrounds distributed as zip archives have to be downloaded manually.
 * [Swift Algorithm Club](https://github.com/raywenderlich/swift-algorithm-club) ⭐ 29,090 | 🐛 62 | 🌐 Swift | 📅 2024-12-06 - Algorithms and data structures in Swift with explanations. 🌟
 * [Expressions](https://github.com/mpangburn/Expressions) ⭐ 395 | 🐛 1 | 🌐 Swift | 📅 2018-02-15 - Arithmetic and logical expressions elegantly modeled and visualized using protocol-oriented binary trees.🍁
 * [Julia Fractal Playground](https://github.com/gongzhang/julia-set-playground#julia-set-playground) ⭐ 263 | 🐛 0 | 🌐 Swift | 📅 2021-11-19 - A Swift playground that generates beautiful Julia set fractal images.
-* [Visual Binary Trees](https://github.com/akpw/VisualBinaryTrees) ⭐ 58 | 🐛 2 | 🌐 Swift | 📅 2025-09-20 - Effortless visualization of arbitrary Binary Trees, along with their pluggable traversal implementations. 🌟
+* [Visual Binary Trees](https://github.com/akpw/VisualBinaryTrees) ⭐ 59 | 🐛 2 | 🌐 Swift | 📅 2025-09-20 - Effortless visualization of arbitrary Binary Trees, along with their pluggable traversal implementations. 🌟
 * [A Star](https://github.com/Dev1an/A-Star) ⭐ 41 | 🐛 2 | 🌐 Swift | 📅 2020-08-07 - Protocol oriented A\* pathfinding algorithm implementation in Swift 4.🍁
 * [Animated Sorting Algorithms](https://github.com/p-sun/Animated-Sorting-Algorithms) ⭐ 37 | 🐛 0 | 🌐 Swift | 📅 2023-05-05 - Swift 4 playgrounds to view and manipulate sorting algorithms.🍁
 * [DataStructures Playground](https://github.com/oliverfoggin/DataStructuresPlayground) ⭐ 16 | 🐛 0 | 🌐 Swift | 📅 2015-06-30 - Data Structures and Algorithms in Swift. ⏳
@@ -321,4 +321,4 @@ Apple's playgrounds distributed as zip archives have to be downloaded manually.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-30._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-31._

@@ -585,7 +585,7 @@
             "open_issues": 0,
             "owner": "ole",
             "repo": "whats-new-in-swift-4-2",
-            "stars": 866,
+            "stars": 865,
             "topics": []
           },
           "first_seen": "2026-08-29T02:34:18.774Z"
@@ -1737,7 +1737,7 @@
                 "open_issues": 2,
                 "owner": "akpw",
                 "repo": "VisualBinaryTrees",
-                "stars": 58,
+                "stars": 59,
                 "topics": []
               },
               "first_seen": "2026-08-29T02:34:18.774Z"
@@ -3711,7 +3711,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-30T22:12:53.373Z",
+    "last_updated": "2026-08-31T23:29:04.166Z",
     "original_repository_info": {
       "archived": false,
       "description": "A List of Awesome Swift Playgrounds",
