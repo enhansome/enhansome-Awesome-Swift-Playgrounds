@@ -174,7 +174,7 @@ Apple's playgrounds distributed as zip archives have to be downloaded manually.
 
 *Algorithms and data structures implemented in Swift*
 
-* [Swift Algorithm Club](https://github.com/raywenderlich/swift-algorithm-club) ⭐ 29,088 | 🐛 62 | 🌐 Swift | 📅 2024-12-06 - Algorithms and data structures in Swift with explanations. 🌟
+* [Swift Algorithm Club](https://github.com/raywenderlich/swift-algorithm-club) ⭐ 29,087 | 🐛 62 | 🌐 Swift | 📅 2024-12-06 - Algorithms and data structures in Swift with explanations. 🌟
 * [Expressions](https://github.com/mpangburn/Expressions) ⭐ 395 | 🐛 1 | 🌐 Swift | 📅 2018-02-15 - Arithmetic and logical expressions elegantly modeled and visualized using protocol-oriented binary trees.🍁
 * [Julia Fractal Playground](https://github.com/gongzhang/julia-set-playground#julia-set-playground) ⭐ 263 | 🐛 0 | 🌐 Swift | 📅 2021-11-19 - A Swift playground that generates beautiful Julia set fractal images.
 * [Visual Binary Trees](https://github.com/akpw/VisualBinaryTrees) ⭐ 59 | 🐛 2 | 🌐 Swift | 📅 2025-09-20 - Effortless visualization of arbitrary Binary Trees, along with their pluggable traversal implementations. 🌟
@@ -277,7 +277,7 @@ Apple's playgrounds distributed as zip archives have to be downloaded manually.
 
 *Library tutorials, in a playground*
 
-* [AIToolbox](https://github.com/KevinCoble/AIToolbox/tree/master/Playgrounds) ⭐ 805 | 🐛 6 | 🌐 Swift | 📅 2020-08-09 - A set of playgrounds showing machine learning algorithms, all implemented with pieces of the AIToolbox framework code.
+* [AIToolbox](https://github.com/KevinCoble/AIToolbox/tree/master/Playgrounds) ⭐ 806 | 🐛 6 | 🌐 Swift | 📅 2020-08-09 - A set of playgrounds showing machine learning algorithms, all implemented with pieces of the AIToolbox framework code.
 * [Cognitive Service APIs](https://github.com/codePrincess/playgrounds) ⭐ 56 | 🐛 1 | 🌐 Swift | 📅 2018-09-17 - Get started with the Microsoft Cognitive Services APIs.
 * [Rx Playground](https://github.com/sgr-ksmt/RxPlayground) ⭐ 6 | 🐛 0 | 🌐 Swift | 📅 2020-03-25 - A playground with RxSwift examples.
 * [AudioKit Playgrounds](https://audiokit.io/playgrounds/) - 130+ Audio synthesis, processing, playback, and analysis playgrounds with AudioKit.
@@ -321,4 +321,4 @@ Apple's playgrounds distributed as zip archives have to be downloaded manually.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-01._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-02._
