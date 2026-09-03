@@ -1060,7 +1060,7 @@
                 "open_issues": 4,
                 "owner": "ochococo",
                 "repo": "Design-Patterns-In-Swift",
-                "stars": 15256,
+                "stars": 15257,
                 "topics": [
                   "computer-science",
                   "design-patterns",
@@ -1089,7 +1089,7 @@
                 "open_issues": 0,
                 "owner": "ochococo",
                 "repo": "OOD-Principles-In-Swift",
-                "stars": 1895,
+                "stars": 1896,
                 "topics": [
                   "computer-science",
                   "dependency-inversion-principle",
@@ -3711,7 +3711,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-02T22:06:28.068Z",
+    "last_updated": "2026-09-03T21:58:43.947Z",
     "original_repository_info": {
       "archived": false,
       "description": "A List of Awesome Swift Playgrounds",
