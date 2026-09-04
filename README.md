@@ -174,7 +174,7 @@ Apple's playgrounds distributed as zip archives have to be downloaded manually.
 
 *Algorithms and data structures implemented in Swift*
 
-* [Swift Algorithm Club](https://github.com/raywenderlich/swift-algorithm-club) ⭐ 29,087 | 🐛 62 | 🌐 Swift | 📅 2024-12-06 - Algorithms and data structures in Swift with explanations. 🌟
+* [Swift Algorithm Club](https://github.com/raywenderlich/swift-algorithm-club) ⭐ 29,085 | 🐛 62 | 🌐 Swift | 📅 2024-12-06 - Algorithms and data structures in Swift with explanations. 🌟
 * [Expressions](https://github.com/mpangburn/Expressions) ⭐ 395 | 🐛 1 | 🌐 Swift | 📅 2018-02-15 - Arithmetic and logical expressions elegantly modeled and visualized using protocol-oriented binary trees.🍁
 * [Julia Fractal Playground](https://github.com/gongzhang/julia-set-playground#julia-set-playground) ⭐ 263 | 🐛 0 | 🌐 Swift | 📅 2021-11-19 - A Swift playground that generates beautiful Julia set fractal images.
 * [Visual Binary Trees](https://github.com/akpw/VisualBinaryTrees) ⭐ 59 | 🐛 2 | 🌐 Swift | 📅 2025-09-20 - Effortless visualization of arbitrary Binary Trees, along with their pluggable traversal implementations. 🌟
@@ -193,7 +193,7 @@ Apple's playgrounds distributed as zip archives have to be downloaded manually.
 
 * [Write your own language: Mu](https://github.com/marciok/Mu) ⭐ 1,046 | 🐛 1 | 🌐 Swift | 📅 2020-02-06 - A playground explaining how to create a tiny programming language named Mu. 🌟
 * [Introduction to Compilers](https://github.com/ahoppen/introduction-to-compilers) ⭐ 476 | 🐛 0 | 🌐 Swift | 📅 2020-04-09 - Great introduction to the inner workings of compilers. 🍁🌟
-* [Pascal Interpreter](https://github.com/igorkulman/SwiftPascalInterpreter) ⭐ 293 | 🐛 0 | 🌐 Swift | 📅 2022-11-18 - Simple Swift interpreter for the Pascal language inspired by the Let’s Build A Simple Interpreter article series. 🍁
+* [Pascal Interpreter](https://github.com/igorkulman/SwiftPascalInterpreter) ⭐ 294 | 🐛 0 | 🌐 Swift | 📅 2022-11-18 - Simple Swift interpreter for the Pascal language inspired by the Let’s Build A Simple Interpreter article series. 🍁
 * [Let's build a compiler in Swift](https://github.com/mkchoi212/LBAC-Swift) ⭐ 162 | 🐛 0 | 🌐 Swift | 📅 2018-01-06 - Let's Build a Compiler by Jack Crenshaw translated to Swift Playgrounds. 🌟
 * [Turtle Playground](https://github.com/dimsumthinking/TurtlePlayground) ⭐ 126 | 🐛 1 | 🌐 Swift | 📅 2016-02-20 - A playground with Logo-like commands. 🌟 ⏳
 * [ASM Swift](https://github.com/NSExceptional/ASM-Swift) ⭐ 106 | 🐛 0 | 🌐 Swift | 📅 2017-02-27 - A playground for learning Assembly language through Swift. 🌟
@@ -321,4 +321,4 @@ Apple's playgrounds distributed as zip archives have to be downloaded manually.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-03._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-04._
