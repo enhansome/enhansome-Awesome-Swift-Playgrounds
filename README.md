@@ -74,7 +74,7 @@ Apple's playgrounds distributed as zip archives have to be downloaded manually.
 * [Spacetime Rhapsody](https://github.com/hollisliu/Spacetime-Rhapsody) ⭐ 27 | 🐛 1 | 🌐 Swift | 📅 2017-05-10 - A Swift Playground visualizing gravity based on Einstein's Theory of General Relativity. 🌟
 * [Accessible Reality](https://github.com/aheze/AccessibleReality) ⭐ 27 | 🐛 0 | 🌐 Swift | 📅 2021-06-01 - for learning the basics of ARKit through interactive lessons. 🍁
 * [Tree Trouble Playbook](https://github.com/joelrorseth/Tree-Trouble) ⭐ 25 | 🐛 1 | 🌐 Swift | 📅 2017-04-04 - An interactive Swift Playground Book about Binary Search Trees.
-* [Guilloche Pattern Playground Book](https://github.com/TheWildHorse/GuillochePlayground) ⭐ 21 | 🐛 1 | 🌐 Swift | 📅 2020-07-31 - Learn more about this pattern you see every day, but probably never knew it was really carefully designed. 🍁
+* [Guilloche Pattern Playground Book](https://github.com/TheWildHorse/GuillochePlayground) ⭐ 22 | 🐛 1 | 🌐 Swift | 📅 2020-07-31 - Learn more about this pattern you see every day, but probably never knew it was really carefully designed. 🍁
 * [jscore-playground](https://github.com/kkk669/jscore-playground) ⚠️ Archived - A JavaScript REPL using JavaScriptCore. 🍁
 * [SF Symbols Viewer](https://github.com/kkk669/SF-Symbols-Viewer) ⭐ 18 | 🐛 0 | 🌐 Swift | 📅 2021-11-15 - An SF Symbols Viewer for Swift Playgrounds. 🍁
 * [Auto Pong](https://github.com/cardoso/AutoPong) ⭐ 13 | 🐛 2 | 🌐 Swift | 📅 2019-02-14 - A tutorial to implement a pong based on a simple AI.
@@ -117,7 +117,7 @@ Apple's playgrounds distributed as zip archives have to be downloaded manually.
 
 ### Design Patterns
 
-* [Design Patterns in Swift](https://github.com/ochococo/Design-Patterns-In-Swift) ⭐ 15,256 | 🐛 4 | 🌐 Swift | 📅 2024-08-03 - Design patterns in Swift 3.
+* [Design Patterns in Swift](https://github.com/ochococo/Design-Patterns-In-Swift) ⭐ 15,254 | 🐛 4 | 🌐 Swift | 📅 2024-08-03 - Design patterns in Swift 3.
 * [The Principles of OOD in Swift 4](https://github.com/ochococo/OOD-Principles-In-Swift) ⭐ 1,896 | 🐛 0 | 🌐 Swift | 📅 2026-03-13 - The Principles of OOD based on Uncle Bob articles.🍁
 * [iOS Design Patterns](https://github.com/haxpor/ios-design-patterns) ⭐ 143 | 🐛 1 | 🌐 Swift | 📅 2020-01-04 - Sample projects for MVC, MVP, MVVM, and VIPER.
 * [GOF Swift](https://github.com/SebastianBoldt/Gang-of-Four-and-Solid-Principles-in-Swift) ⭐ 138 | 🐛 0 | 🌐 Swift | 📅 2018-03-20 - Learn all 23 Gang of Four patterns using Swift.
@@ -174,7 +174,7 @@ Apple's playgrounds distributed as zip archives have to be downloaded manually.
 
 *Algorithms and data structures implemented in Swift*
 
-* [Swift Algorithm Club](https://github.com/raywenderlich/swift-algorithm-club) ⭐ 29,084 | 🐛 62 | 🌐 Swift | 📅 2024-12-06 - Algorithms and data structures in Swift with explanations. 🌟
+* [Swift Algorithm Club](https://github.com/raywenderlich/swift-algorithm-club) ⭐ 29,082 | 🐛 62 | 🌐 Swift | 📅 2024-12-06 - Algorithms and data structures in Swift with explanations. 🌟
 * [Expressions](https://github.com/mpangburn/Expressions) ⭐ 395 | 🐛 1 | 🌐 Swift | 📅 2018-02-15 - Arithmetic and logical expressions elegantly modeled and visualized using protocol-oriented binary trees.🍁
 * [Julia Fractal Playground](https://github.com/gongzhang/julia-set-playground#julia-set-playground) ⭐ 263 | 🐛 0 | 🌐 Swift | 📅 2021-11-19 - A Swift playground that generates beautiful Julia set fractal images.
 * [Visual Binary Trees](https://github.com/akpw/VisualBinaryTrees) ⭐ 59 | 🐛 2 | 🌐 Swift | 📅 2025-09-20 - Effortless visualization of arbitrary Binary Trees, along with their pluggable traversal implementations. 🌟
@@ -266,7 +266,7 @@ Apple's playgrounds distributed as zip archives have to be downloaded manually.
 
 * [Abstract Algebra](https://github.com/taketo1024/SwiftyMath) ⚠️ Archived - Abstract algebra concepts implemented in Swift.
 * [Swift Accelerate](https://github.com/haginile/SwiftAccelerate) ⭐ 118 | 🐛 3 | 🌐 Swift | 📅 2017-05-14 - Using the Accelerate framework and Swift for Linear Algebra. ⏳
-* [Guilloche Pattern Playground Book](https://github.com/TheWildHorse/GuillochePlayground) ⭐ 21 | 🐛 1 | 🌐 Swift | 📅 2020-07-31 - Learn more about this pattern you see every day, but probably never knew it was really carefully designed. 🍁
+* [Guilloche Pattern Playground Book](https://github.com/TheWildHorse/GuillochePlayground) ⭐ 22 | 🐛 1 | 🌐 Swift | 📅 2020-07-31 - Learn more about this pattern you see every day, but probably never knew it was really carefully designed. 🍁
 * [Lindenmayer Systems](https://github.com/henrinormak/lindenmayer) ⭐ 12 | 🐛 0 | 🌐 Swift | 📅 2017-01-22 - A Swift playground exploring Lindemayer systems.
 * [Swifty Mathematics](https://github.com/DylanModesitt/swiftyMathematics) ⭐ 4 | 🐛 0 | 🌐 Swift | 📅 2016-11-17 - A collection of swift playground about mathematics. ⏳
 * [Swift Natural Numbers](https://github.com/jakebromberg/Swift-Natural-Numbers) ⭐ 3 | 🐛 0 | 🌐 Swift | 📅 2016-06-16 - A playground for implementing the natural numbers and more concepts in number theory.
@@ -321,4 +321,4 @@ Apple's playgrounds distributed as zip archives have to be downloaded manually.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-05._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-06._
