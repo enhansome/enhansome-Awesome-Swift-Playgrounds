@@ -56,7 +56,7 @@ Apple's playgrounds distributed as zip archives have to be downloaded manually.
 *Playgrounds submitted by students for the WWDC scholarship*
 
 * Past Editions: [2025](https://github.com/wwdc/2025) ⭐ 82 | 🐛 0 | 🌐 Swift | 📅 2026-08-04, [2024](https://github.com/wwdc/2024) ⭐ 6 | 🐛 0 | 🌐 Swift | 📅 2025-08-19, [2023](https://github.com/wwdc/2023) ⭐ 99 | 🐛 0 | 🌐 Swift | 📅 2025-02-21, [2022](https://github.com/wwdc/2022) ⭐ 159 | 🐛 0 | 🌐 Swift | 📅 2025-06-13, [2021](https://github.com/wwdc/2021) ⭐ 184 | 🐛 0 | 🌐 Swift | 📅 2026-08-07, [2020](https://github.com/wwdc/2020) ⭐ 216 | 🐛 1 | 🌐 Swift | 📅 2025-02-26, [2019](https://github.com/wwdc/2019) ⭐ 283 | 🐛 3 | 📅 2026-08-07, [2018](https://github.com/wwdc/2018) ⭐ 265 | 🐛 3 | 📅 2021-09-27, [2017](https://github.com/wwdc/2017) ⭐ 240 | 🐛 0 | 📅 2019-03-28, [2016](https://github.com/wwdc/2016) ⭐ 83 | 🐛 0 | 📅 2018-04-11, [2015](https://github.com/wwdc/2015) ⭐ 132 | 🐛 0 | 📅 2018-11-06, [2014](https://github.com/wwdc/2014) ⭐ 183 | 🐛 0 | 📅 2021-06-04
-* Latest: [2026](https://github.com/wwdc/2026) ⭐ 41 | 🐛 2 | 🌐 Swift | 📅 2026-06-22
+* Latest: [2026](https://github.com/wwdc/2026) ⭐ 42 | 🐛 2 | 🌐 Swift | 📅 2026-06-22
 
 ## PlaygroundBooks
 
@@ -117,7 +117,7 @@ Apple's playgrounds distributed as zip archives have to be downloaded manually.
 
 ### Design Patterns
 
-* [Design Patterns in Swift](https://github.com/ochococo/Design-Patterns-In-Swift) ⭐ 15,255 | 🐛 4 | 🌐 Swift | 📅 2024-08-03 - Design patterns in Swift 3.
+* [Design Patterns in Swift](https://github.com/ochococo/Design-Patterns-In-Swift) ⭐ 15,254 | 🐛 4 | 🌐 Swift | 📅 2024-08-03 - Design patterns in Swift 3.
 * [The Principles of OOD in Swift 4](https://github.com/ochococo/OOD-Principles-In-Swift) ⭐ 1,896 | 🐛 0 | 🌐 Swift | 📅 2026-03-13 - The Principles of OOD based on Uncle Bob articles.🍁
 * [iOS Design Patterns](https://github.com/haxpor/ios-design-patterns) ⭐ 143 | 🐛 1 | 🌐 Swift | 📅 2020-01-04 - Sample projects for MVC, MVP, MVVM, and VIPER.
 * [GOF Swift](https://github.com/SebastianBoldt/Gang-of-Four-and-Solid-Principles-in-Swift) ⭐ 138 | 🐛 0 | 🌐 Swift | 📅 2018-03-20 - Learn all 23 Gang of Four patterns using Swift.
@@ -174,7 +174,7 @@ Apple's playgrounds distributed as zip archives have to be downloaded manually.
 
 *Algorithms and data structures implemented in Swift*
 
-* [Swift Algorithm Club](https://github.com/raywenderlich/swift-algorithm-club) ⭐ 29,080 | 🐛 62 | 🌐 Swift | 📅 2024-12-06 - Algorithms and data structures in Swift with explanations. 🌟
+* [Swift Algorithm Club](https://github.com/raywenderlich/swift-algorithm-club) ⭐ 29,078 | 🐛 62 | 🌐 Swift | 📅 2024-12-06 - Algorithms and data structures in Swift with explanations. 🌟
 * [Expressions](https://github.com/mpangburn/Expressions) ⭐ 395 | 🐛 1 | 🌐 Swift | 📅 2018-02-15 - Arithmetic and logical expressions elegantly modeled and visualized using protocol-oriented binary trees.🍁
 * [Julia Fractal Playground](https://github.com/gongzhang/julia-set-playground#julia-set-playground) ⭐ 263 | 🐛 0 | 🌐 Swift | 📅 2021-11-19 - A Swift playground that generates beautiful Julia set fractal images.
 * [Visual Binary Trees](https://github.com/akpw/VisualBinaryTrees) ⭐ 59 | 🐛 2 | 🌐 Swift | 📅 2025-09-20 - Effortless visualization of arbitrary Binary Trees, along with their pluggable traversal implementations. 🌟
@@ -277,7 +277,7 @@ Apple's playgrounds distributed as zip archives have to be downloaded manually.
 
 *Library tutorials, in a playground*
 
-* [AIToolbox](https://github.com/KevinCoble/AIToolbox/tree/master/Playgrounds) ⭐ 806 | 🐛 6 | 🌐 Swift | 📅 2020-08-09 - A set of playgrounds showing machine learning algorithms, all implemented with pieces of the AIToolbox framework code.
+* [AIToolbox](https://github.com/KevinCoble/AIToolbox/tree/master/Playgrounds) ⭐ 807 | 🐛 6 | 🌐 Swift | 📅 2020-08-09 - A set of playgrounds showing machine learning algorithms, all implemented with pieces of the AIToolbox framework code.
 * [Cognitive Service APIs](https://github.com/codePrincess/playgrounds) ⭐ 56 | 🐛 1 | 🌐 Swift | 📅 2018-09-17 - Get started with the Microsoft Cognitive Services APIs.
 * [Rx Playground](https://github.com/sgr-ksmt/RxPlayground) ⭐ 6 | 🐛 0 | 🌐 Swift | 📅 2020-03-25 - A playground with RxSwift examples.
 * [AudioKit Playgrounds](https://audiokit.io/playgrounds/) - 130+ Audio synthesis, processing, playback, and analysis playgrounds with AudioKit.
@@ -321,4 +321,4 @@ Apple's playgrounds distributed as zip archives have to be downloaded manually.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-09._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-10._
