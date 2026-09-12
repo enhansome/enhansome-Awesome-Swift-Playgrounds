@@ -4,7 +4,7 @@
 
 ### Contributing
 
-Please take a quick look at the [contribution guidelines](https://github.com/uraimo/awesome-swift-playgrounds/blob/master/CONTRIBUTING.md) ⭐ 4,386 | 🐛 1 | 🌐 Swift | 📅 2026-04-02 first. Thanks to all [contributors](https://github.com/uraimo/awesome-swift-playgrounds/graphs/contributors) ⭐ 4,386 | 🐛 1 | 🌐 Swift | 📅 2026-04-02; you rock!
+Please take a quick look at the [contribution guidelines](https://github.com/uraimo/awesome-swift-playgrounds/blob/master/CONTRIBUTING.md) ⭐ 4,387 | 🐛 1 | 🌐 Swift | 📅 2026-04-02 first. Thanks to all [contributors](https://github.com/uraimo/awesome-swift-playgrounds/graphs/contributors) ⭐ 4,387 | 🐛 1 | 🌐 Swift | 📅 2026-04-02; you rock!
 
 If you see a playground here that does not work anymore with the current release of Xcode or is not a good fit, please submit a pull request to improve this file or consider updating it, thank you!
 
@@ -174,7 +174,7 @@ Apple's playgrounds distributed as zip archives have to be downloaded manually.
 
 *Algorithms and data structures implemented in Swift*
 
-* [Swift Algorithm Club](https://github.com/raywenderlich/swift-algorithm-club) ⭐ 29,078 | 🐛 62 | 🌐 Swift | 📅 2024-12-06 - Algorithms and data structures in Swift with explanations. 🌟
+* [Swift Algorithm Club](https://github.com/raywenderlich/swift-algorithm-club) ⭐ 29,079 | 🐛 62 | 🌐 Swift | 📅 2024-12-06 - Algorithms and data structures in Swift with explanations. 🌟
 * [Expressions](https://github.com/mpangburn/Expressions) ⭐ 395 | 🐛 1 | 🌐 Swift | 📅 2018-02-15 - Arithmetic and logical expressions elegantly modeled and visualized using protocol-oriented binary trees.🍁
 * [Julia Fractal Playground](https://github.com/gongzhang/julia-set-playground#julia-set-playground) ⭐ 263 | 🐛 0 | 🌐 Swift | 📅 2021-11-19 - A Swift playground that generates beautiful Julia set fractal images.
 * [Visual Binary Trees](https://github.com/akpw/VisualBinaryTrees) ⭐ 59 | 🐛 2 | 🌐 Swift | 📅 2025-09-20 - Effortless visualization of arbitrary Binary Trees, along with their pluggable traversal implementations. 🌟
@@ -321,4 +321,4 @@ Apple's playgrounds distributed as zip archives have to be downloaded manually.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-11._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-12._
