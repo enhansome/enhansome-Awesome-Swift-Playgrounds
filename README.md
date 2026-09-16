@@ -62,7 +62,7 @@ Apple's playgrounds distributed as zip archives have to be downloaded manually.
 
 *Playgrounds that can be run on your iPad*
 
-* [Neural Network Playground](https://github.com/hetelek/Neural-Network-Playground) ⭐ 378 | 🐛 1 | 🌐 Swift | 📅 2019-02-12 - A neural network Swift playground, with no third party dependencies.
+* [Neural Network Playground](https://github.com/hetelek/Neural-Network-Playground) ⭐ 377 | 🐛 1 | 🌐 Swift | 📅 2019-02-12 - A neural network Swift playground, with no third party dependencies.
 * [File Browser Playground](https://github.com/steventroughtonsmith/files-playgroundbook) ⭐ 205 | 🐛 2 | 🌐 Swift | 📅 2016-09-15 - Simple File Browser for Swift Playgrounds on iOS.
 * [AudioKit Playground Book](https://github.com/audiokit/Playgrounds) ⭐ 196 | 🐛 10 | 🌐 Swift | 📅 2022-06-02 - A set of playgrounds using AudioKit designed for the iPad Playgrounds app.
 * [Numsw](https://github.com/sonsongithub/numsw) ⭐ 133 | 🐛 7 | 🌐 Swift | 📅 2017-09-30 - A swift playground book that mimics some of the features of numpy and jupyter notebook.
@@ -174,7 +174,7 @@ Apple's playgrounds distributed as zip archives have to be downloaded manually.
 
 *Algorithms and data structures implemented in Swift*
 
-* [Swift Algorithm Club](https://github.com/raywenderlich/swift-algorithm-club) ⭐ 29,082 | 🐛 62 | 🌐 Swift | 📅 2024-12-06 - Algorithms and data structures in Swift with explanations. 🌟
+* [Swift Algorithm Club](https://github.com/raywenderlich/swift-algorithm-club) ⭐ 29,081 | 🐛 62 | 🌐 Swift | 📅 2024-12-06 - Algorithms and data structures in Swift with explanations. 🌟
 * [Expressions](https://github.com/mpangburn/Expressions) ⭐ 395 | 🐛 1 | 🌐 Swift | 📅 2018-02-15 - Arithmetic and logical expressions elegantly modeled and visualized using protocol-oriented binary trees.🍁
 * [Julia Fractal Playground](https://github.com/gongzhang/julia-set-playground#julia-set-playground) ⭐ 263 | 🐛 0 | 🌐 Swift | 📅 2021-11-19 - A Swift playground that generates beautiful Julia set fractal images.
 * [Visual Binary Trees](https://github.com/akpw/VisualBinaryTrees) ⭐ 59 | 🐛 2 | 🌐 Swift | 📅 2025-09-20 - Effortless visualization of arbitrary Binary Trees, along with their pluggable traversal implementations. 🌟
@@ -202,7 +202,7 @@ Apple's playgrounds distributed as zip archives have to be downloaded manually.
 
 ### Machine Learning
 
-* [Emoji Intelligence](https://github.com/BilalReffas/EmojiIntelligence) ⭐ 1,426 | 🐛 0 | 🌐 Swift | 📅 2018-08-21 - Neural Network built in Apple Playground using Swift. 🌟
+* [Emoji Intelligence](https://github.com/BilalReffas/EmojiIntelligence) ⭐ 1,425 | 🐛 0 | 🌐 Swift | 📅 2018-08-21 - Neural Network built in Apple Playground using Swift. 🌟
 
 ## UIKit And Graphics
 
@@ -215,7 +215,7 @@ Apple's playgrounds distributed as zip archives have to be downloaded manually.
 * [Bezier Path Playgrounds](https://github.com/DigitalLeaves/BezierPathPlaygrounds) ⭐ 25 | 🐛 0 | 🌐 Swift | 📅 2016-10-09 - Some playgrounds to better understand UIBezierPaths.
 * [Ray tracing Playground](https://github.com/mhorga/Raytracing) ⭐ 16 | 🐛 0 | 🌐 Swift | 📅 2016-03-21 - A playground and a series of articles on ray tracing, see also part [2](https://github.com/mhorga/Raytracing2) ⭐ 6 | 🐛 0 | 🌐 Swift | 📅 2016-03-29, [3](https://github.com/mhorga/Raytracing3) ⭐ 7 | 🐛 0 | 🌐 Swift | 📅 2016-04-05, [4](https://github.com/mhorga/Raytracing4) ⭐ 2 | 🐛 0 | 🌐 Swift | 📅 2016-04-11, [5](https://github.com/mhorga/Raytracing5) ⭐ 5 | 🐛 0 | 🌐 Swift | 📅 2016-04-11 🌟 ⏳
 * [WatchKit Asset Playground](https://github.com/cwimberger/WatchKitAssetPlayground) ⭐ 8 | 🐛 1 | 🌐 Swift | 📅 2015-05-11 - A swift playground for creating awesome animations for your WatchKit Apps. ⏳
-* [WWDC16 Typography](https://github.com/tototti/wwdc16_typography_playground) ⭐ 7 | 🐛 0 | 🌐 Swift | 📅 2017-03-15 🇯🇵 - Draw a logo or any text with the WWDC16 ASCII texture.
+* [WWDC16 Typography](https://github.com/tototti/wwdc16_typography_playground) ⭐ 6 | 🐛 0 | 🌐 Swift | 📅 2017-03-15 🇯🇵 - Draw a logo or any text with the WWDC16 ASCII texture.
 * [UIDynamic Playground](https://github.com/andresbrun/UIDynamicsPlayground) ⭐ 5 | 🐛 0 | 🌐 Swift | 📅 2017-01-11 - Multiple Playgrounds using almost every behaviour of UIDynamic.
 * [Animated GIF Playground](https://github.com/danielrhammond/GIF-Playground) ⭐ 1 | 🐛 0 | 🌐 Swift | 📅 2017-03-29 - Swift playground for generating animated GIFs.
 * [Tinting](https://github.com/Jesse-calkin/tinting) ⭐ 0 | 🐛 1 | 🌐 Swift | 📅 2015-12-03 - A small playground to demonstrate image tinting in UIKit. ⏳
@@ -236,8 +236,8 @@ Apple's playgrounds distributed as zip archives have to be downloaded manually.
 ### Animations
 
 * [UIViewPropertyAnimator Playground](https://github.com/mathewsanders/Scrubber) ⭐ 37 | 🐛 0 | 🌐 Swift | 📅 2017-03-22 - Playground demonstrating UIViewPropertyAnimator.
-* [Core Animation Swift Playgrounds](https://github.com/rmirabelli/CoreAnimationSwiftPlaygrounds) ⭐ 35 | 🐛 0 | 🌐 Swift | 📅 2017-01-10 - A set of interesting Core Animation playgounds.
 * [Additive Animations](https://github.com/d-ronnqvist/Additive-Animations-Playground) ⭐ 35 | 🐛 0 | 🌐 Swift | 📅 2014-06-24 - Experiment with multiple additive animations in Core Animation. ⏳
+* [Core Animation Swift Playgrounds](https://github.com/rmirabelli/CoreAnimationSwiftPlaygrounds) ⭐ 34 | 🐛 0 | 🌐 Swift | 📅 2017-01-10 - A set of interesting Core Animation playgounds.
 * [WWDC Crowd Simulator 2017](https://github.com/neilsardesai/WWDC-Crowd-Simulator-2017) ⭐ 32 | 🐛 0 | 🌐 Swift | 📅 2017-04-21 - A SpriteKit experiment to simulate the WWDC2017 logo crowd.
 * [Duet-Inspired Trail Effect](https://github.com/dionlarson/Duet-Trail-Effect-SpriteKit-Playground) ⭐ 26 | 🐛 0 | 🌐 Swift | 📅 2017-05-13 - How to get a Duet style trailing effect in SpriteKit.
 * [Core Animation Playground](https://github.com/knightsc/CoreAnimationPlayground) ⭐ 9 | 🐛 1 | 🌐 Swift | 📅 2021-11-19 - Companion to Apple's Core Animation Programming Guide. ⏳
@@ -321,4 +321,4 @@ Apple's playgrounds distributed as zip archives have to be downloaded manually.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-15._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-16._
