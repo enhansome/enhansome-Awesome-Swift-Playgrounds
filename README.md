@@ -86,7 +86,7 @@ Apple's playgrounds distributed as zip archives have to be downloaded manually.
 *Some interesting playgrounds to learn Swift*
 
 * [What's new in Swift 4](https://github.com/ole/whats-new-in-swift-4) ⚠️ Archived - An Xcode playground showing off the new features in Swift 4.0. 🍁 🌟
-* [The Swift Summary Book](https://github.com/jakarmy/swift-summary) ⭐ 1,662 | 🐛 3 | 🌐 Swift | 📅 2021-12-27 - A summary of Apple's Swift language. 🌟
+* [The Swift Summary Book](https://github.com/jakarmy/swift-summary) ⭐ 1,661 | 🐛 3 | 🌐 Swift | 📅 2021-12-27 - A summary of Apple's Swift language. 🌟
 * [What's new in Swift 4.2](https://github.com/ole/whats-new-in-swift-4-2) ⚠️ Archived - An Xcode playground showing off the new features in Swift 4.2. 🍁 🌟
 * [The Swift Programming Language Playgrounds](https://github.com/danielpi/Swift-Playgrounds) ⭐ 232 | 🐛 0 | 🌐 Swift | 📅 2021-10-13 - 40+ playgrounds, one for each chapter of Apple's Swift book. 🌟
 * [Swifter Tips](https://github.com/swifter-tips/Playground) ⭐ 124 | 🐛 0 | 🌐 Swift | 📅 2016-09-15 - Examples for every feature of the Swift language.
@@ -117,7 +117,7 @@ Apple's playgrounds distributed as zip archives have to be downloaded manually.
 
 ### Design Patterns
 
-* [Design Patterns in Swift](https://github.com/ochococo/Design-Patterns-In-Swift) ⭐ 15,257 | 🐛 4 | 🌐 Swift | 📅 2024-08-03 - Design patterns in Swift 3.
+* [Design Patterns in Swift](https://github.com/ochococo/Design-Patterns-In-Swift) ⭐ 15,253 | 🐛 4 | 🌐 Swift | 📅 2024-08-03 - Design patterns in Swift 3.
 * [The Principles of OOD in Swift 4](https://github.com/ochococo/OOD-Principles-In-Swift) ⭐ 1,896 | 🐛 0 | 🌐 Swift | 📅 2026-03-13 - The Principles of OOD based on Uncle Bob articles.🍁
 * [iOS Design Patterns](https://github.com/haxpor/ios-design-patterns) ⭐ 143 | 🐛 1 | 🌐 Swift | 📅 2020-01-04 - Sample projects for MVC, MVP, MVVM, and VIPER.
 * [GOF Swift](https://github.com/SebastianBoldt/Gang-of-Four-and-Solid-Principles-in-Swift) ⭐ 138 | 🐛 0 | 🌐 Swift | 📅 2018-03-20 - Learn all 23 Gang of Four patterns using Swift.
@@ -174,7 +174,7 @@ Apple's playgrounds distributed as zip archives have to be downloaded manually.
 
 *Algorithms and data structures implemented in Swift*
 
-* [Swift Algorithm Club](https://github.com/raywenderlich/swift-algorithm-club) ⭐ 29,079 | 🐛 62 | 🌐 Swift | 📅 2024-12-06 - Algorithms and data structures in Swift with explanations. 🌟
+* [Swift Algorithm Club](https://github.com/raywenderlich/swift-algorithm-club) ⭐ 29,084 | 🐛 62 | 🌐 Swift | 📅 2024-12-06 - Algorithms and data structures in Swift with explanations. 🌟
 * [Expressions](https://github.com/mpangburn/Expressions) ⭐ 395 | 🐛 1 | 🌐 Swift | 📅 2018-02-15 - Arithmetic and logical expressions elegantly modeled and visualized using protocol-oriented binary trees.🍁
 * [Julia Fractal Playground](https://github.com/gongzhang/julia-set-playground#julia-set-playground) ⭐ 263 | 🐛 0 | 🌐 Swift | 📅 2021-11-19 - A Swift playground that generates beautiful Julia set fractal images.
 * [Visual Binary Trees](https://github.com/akpw/VisualBinaryTrees) ⭐ 59 | 🐛 2 | 🌐 Swift | 📅 2025-09-20 - Effortless visualization of arbitrary Binary Trees, along with their pluggable traversal implementations. 🌟
@@ -307,7 +307,7 @@ Apple's playgrounds distributed as zip archives have to be downloaded manually.
 * [Pixel Art Maker](https://github.com/BenEmdon/PixelArtMaker) ⭐ 123 | 🐛 0 | 🌐 Swift | 📅 2020-01-27 - A playground where you can make pixel art.
 * [2048 Playground](https://github.com/robin/2048_Playground) ⭐ 44 | 🐛 3 | 🌐 Swift | 📅 2018-12-07 - The 2048 game implemented with a playground.
 * [SwiftFiles](https://github.com/sketchytech/SwiftFiles) ⭐ 42 | 🐛 0 | 🌐 Swift | 📅 2016-05-08 - Save, Load and Delete files easily from within a Swift playground. ⏳
-* [Icon Creator](https://github.com/tnantoka/IconCreator) ⭐ 37 | 🐛 0 | 🌐 Swift | 📅 2023-01-19 - Create app icons on Swift playground.
+* [Icon Creator](https://github.com/tnantoka/IconCreator) ⭐ 38 | 🐛 0 | 🌐 Swift | 📅 2023-01-19 - Create app icons on Swift playground.
 * [SwiftCoin](https://github.com/Thomvis/Swiftcoin) ⭐ 31 | 🐛 0 | 🌐 Swift | 📅 2017-08-16 - A simplistic blockchain & cryptocurrency in a playground.
 * [Rubik's Cube](https://github.com/codelynx/CoreRubiksCube) ⭐ 21 | 🐛 0 | 🌐 Swift | 📅 2020-05-18 - Implementing basic model and behavior of Rubic's Cube in Swift. 🍁
 * [SwiftShell](https://github.com/JustinJiaDev/SwiftShell) ⚠️ Archived - Bash shell in a playground.
@@ -321,4 +321,4 @@ Apple's playgrounds distributed as zip archives have to be downloaded manually.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-17._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-18._

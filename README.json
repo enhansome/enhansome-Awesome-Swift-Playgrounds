@@ -529,7 +529,7 @@
             "open_issues": 0,
             "owner": "ole",
             "repo": "whats-new-in-swift-4",
-            "stars": 1815,
+            "stars": 1813,
             "topics": [
               "playground",
               "swift",
@@ -554,7 +554,7 @@
             "open_issues": 3,
             "owner": "jakarmy",
             "repo": "swift-summary",
-            "stars": 1662,
+            "stars": 1661,
             "topics": [
               "apple",
               "apple-documentation",
@@ -1060,7 +1060,7 @@
                 "open_issues": 4,
                 "owner": "ochococo",
                 "repo": "Design-Patterns-In-Swift",
-                "stars": 15257,
+                "stars": 15253,
                 "topics": [
                   "computer-science",
                   "design-patterns",
@@ -1661,7 +1661,7 @@
                 "open_issues": 62,
                 "owner": "kodecocodes",
                 "repo": "swift-algorithm-club",
-                "stars": 29079,
+                "stars": 29084,
                 "topics": [
                   "algorithms",
                   "data-structures",
@@ -3495,7 +3495,7 @@
             "open_issues": 0,
             "owner": "tnantoka",
             "repo": "IconCreator",
-            "stars": 37,
+            "stars": 38,
             "topics": []
           },
           "first_seen": "2026-08-29T02:34:18.774Z"
@@ -3711,7 +3711,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-17T22:31:04.097Z",
+    "last_updated": "2026-09-18T22:01:43.947Z",
     "original_repository_info": {
       "archived": false,
       "description": "A List of Awesome Swift Playgrounds",
