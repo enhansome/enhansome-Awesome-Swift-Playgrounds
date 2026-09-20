@@ -174,7 +174,7 @@ Apple's playgrounds distributed as zip archives have to be downloaded manually.
 
 *Algorithms and data structures implemented in Swift*
 
-* [Swift Algorithm Club](https://github.com/raywenderlich/swift-algorithm-club) ⭐ 29,084 | 🐛 62 | 🌐 Swift | 📅 2024-12-06 - Algorithms and data structures in Swift with explanations. 🌟
+* [Swift Algorithm Club](https://github.com/raywenderlich/swift-algorithm-club) ⭐ 29,086 | 🐛 62 | 🌐 Swift | 📅 2024-12-06 - Algorithms and data structures in Swift with explanations. 🌟
 * [Expressions](https://github.com/mpangburn/Expressions) ⭐ 395 | 🐛 1 | 🌐 Swift | 📅 2018-02-15 - Arithmetic and logical expressions elegantly modeled and visualized using protocol-oriented binary trees.🍁
 * [Julia Fractal Playground](https://github.com/gongzhang/julia-set-playground#julia-set-playground) ⭐ 263 | 🐛 0 | 🌐 Swift | 📅 2021-11-19 - A Swift playground that generates beautiful Julia set fractal images.
 * [Visual Binary Trees](https://github.com/akpw/VisualBinaryTrees) ⭐ 59 | 🐛 2 | 🌐 Swift | 📅 2025-09-20 - Effortless visualization of arbitrary Binary Trees, along with their pluggable traversal implementations. 🌟
@@ -218,7 +218,7 @@ Apple's playgrounds distributed as zip archives have to be downloaded manually.
 * [WWDC16 Typography](https://github.com/tototti/wwdc16_typography_playground) ⭐ 6 | 🐛 0 | 🌐 Swift | 📅 2017-03-15 🇯🇵 - Draw a logo or any text with the WWDC16 ASCII texture.
 * [UIDynamic Playground](https://github.com/andresbrun/UIDynamicsPlayground) ⭐ 5 | 🐛 0 | 🌐 Swift | 📅 2017-01-11 - Multiple Playgrounds using almost every behaviour of UIDynamic.
 * [Animated GIF Playground](https://github.com/danielrhammond/GIF-Playground) ⭐ 1 | 🐛 0 | 🌐 Swift | 📅 2017-03-29 - Swift playground for generating animated GIFs.
-* [Tinting](https://github.com/Jesse-calkin/tinting) ⭐ 0 | 🐛 1 | 🌐 Swift | 📅 2015-12-03 - A small playground to demonstrate image tinting in UIKit. ⏳
+* [Tinting](https://github.com/Jesse-calkin/tinting) ⭐ 0 | 🐛 0 | 🌐 Swift | 📅 2015-12-03 - A small playground to demonstrate image tinting in UIKit. ⏳
 * [RPClarity](https://github.com/RobotsAndPencils/RPClarity) - Shows a technique for blurring an image behind the characters behind one or more UILabels. ⏳
 * [WWDC16 Logo Playground](https://github.com/krutarth/WWDC16Logo) - Drawing the WWDC16 logo in a playground. ⏳
 
@@ -321,4 +321,4 @@ Apple's playgrounds distributed as zip archives have to be downloaded manually.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-19._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-20._
