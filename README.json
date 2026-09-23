@@ -1661,7 +1661,7 @@
                 "open_issues": 62,
                 "owner": "kodecocodes",
                 "repo": "swift-algorithm-club",
-                "stars": 29086,
+                "stars": 29087,
                 "topics": [
                   "algorithms",
                   "data-structures",
@@ -1959,7 +1959,7 @@
                 "open_issues": 0,
                 "owner": "igorkulman",
                 "repo": "SwiftPascalInterpreter",
-                "stars": 294,
+                "stars": 295,
                 "topics": [
                   "ast",
                   "grammar",
@@ -3711,7 +3711,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-22T22:29:23.538Z",
+    "last_updated": "2026-09-23T22:32:14.040Z",
     "original_repository_info": {
       "archived": false,
       "description": "A List of Awesome Swift Playgrounds",
