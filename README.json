@@ -1060,7 +1060,7 @@
                 "open_issues": 4,
                 "owner": "ochococo",
                 "repo": "Design-Patterns-In-Swift",
-                "stars": 15252,
+                "stars": 15251,
                 "topics": [
                   "computer-science",
                   "design-patterns",
@@ -3711,7 +3711,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-30T23:18:37.574Z",
+    "last_updated": "2026-10-01T23:32:49.169Z",
     "original_repository_info": {
       "archived": false,
       "description": "A List of Awesome Swift Playgrounds",
@@ -3723,7 +3723,7 @@
       "open_issues": 1,
       "owner": "uraimo",
       "repo": "Awesome-Swift-Playgrounds",
-      "stars": 4387,
+      "stars": 4388,
       "topics": [
         "apple",
         "apple-playground",
