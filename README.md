@@ -202,13 +202,13 @@ Apple's playgrounds distributed as zip archives have to be downloaded manually.
 
 ### Machine Learning
 
-* [Emoji Intelligence](https://github.com/BilalReffas/EmojiIntelligence) ⭐ 1,426 | 🐛 0 | 🌐 Swift | 📅 2018-08-21 - Neural Network built in Apple Playground using Swift. 🌟
+* [Emoji Intelligence](https://github.com/BilalReffas/EmojiIntelligence) ⭐ 1,427 | 🐛 0 | 🌐 Swift | 📅 2018-08-21 - Neural Network built in Apple Playground using Swift. 🌟
 
 ## UIKit And Graphics
 
 *A list of playgrounds that demostrate various aspect of UIKit and other graphical frameworks*
 
-* [UIStackView Playground](https://github.com/dasdom/UIStackViewPlayground) ⭐ 327 | 🐛 0 | 🌐 Swift | 📅 2020-06-09 - Interesting examples of use of UIStackViews.🌟
+* [UIStackView Playground](https://github.com/dasdom/UIStackViewPlayground) ⭐ 326 | 🐛 0 | 🌐 Swift | 📅 2020-06-09 - Interesting examples of use of UIStackViews.🌟
 * [UIKit playground](https://github.com/ralfebert/uikit-playground) ⚠️ Archived - Playgrounds to experiment interactively with UIKit views.
 * [Swift 2.0 Protocol Extension Example](https://github.com/jhurray/Swift2-Protocol-Extension-Example) ⭐ 37 | 🐛 0 | 🌐 Swift | 📅 2016-06-07 - Showing how to use Swift2 protocol extensions to render errors in UIViews and UIViewControllers without subclassing or creating classes. ⏳
 * [Swift Clock](https://github.com/nickoneill/swiftclock) ⭐ 29 | 🐛 0 | 🌐 Swift | 📅 2014-11-14 - An animated clock in a swift playground. ⏳
@@ -321,4 +321,4 @@ Apple's playgrounds distributed as zip archives have to be downloaded manually.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-04._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-06._
