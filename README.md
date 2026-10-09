@@ -202,7 +202,7 @@ Apple's playgrounds distributed as zip archives have to be downloaded manually.
 
 ### Machine Learning
 
-* [Emoji Intelligence](https://github.com/BilalReffas/EmojiIntelligence) ⭐ 1,427 | 🐛 0 | 🌐 Swift | 📅 2018-08-21 - Neural Network built in Apple Playground using Swift. 🌟
+* [Emoji Intelligence](https://github.com/BilalReffas/EmojiIntelligence) ⭐ 1,428 | 🐛 0 | 🌐 Swift | 📅 2018-08-21 - Neural Network built in Apple Playground using Swift. 🌟
 
 ## UIKit And Graphics
 
