@@ -64,7 +64,7 @@ Apple's playgrounds distributed as zip archives have to be downloaded manually.
 
 * [Neural Network Playground](https://github.com/hetelek/Neural-Network-Playground) ⭐ 376 | 🐛 1 | 🌐 Swift | 📅 2019-02-12 - A neural network Swift playground, with no third party dependencies.
 * [File Browser Playground](https://github.com/steventroughtonsmith/files-playgroundbook) ⭐ 205 | 🐛 2 | 🌐 Swift | 📅 2016-09-15 - Simple File Browser for Swift Playgrounds on iOS.
-* [AudioKit Playground Book](https://github.com/audiokit/Playgrounds) ⭐ 196 | 🐛 10 | 🌐 Swift | 📅 2022-06-02 - A set of playgrounds using AudioKit designed for the iPad Playgrounds app.
+* [AudioKit Playground Book](https://github.com/audiokit/Playgrounds) ⭐ 197 | 🐛 10 | 🌐 Swift | 📅 2022-06-02 - A set of playgrounds using AudioKit designed for the iPad Playgrounds app.
 * [Numsw](https://github.com/sonsongithub/numsw) ⭐ 133 | 🐛 7 | 🌐 Swift | 📅 2017-09-30 - A swift playground book that mimics some of the features of numpy and jupyter notebook.
 * [Image Filtering](https://github.com/lennet/image-filtering) ⭐ 82 | 🐛 0 | 🌐 Swift | 📅 2020-02-11 - A Swift playgroundbook about Image Filtering. 🍁🌟
 * [Neural Network](https://github.com/lennet/neuralnetwork) ⭐ 57 | 🐛 0 | 🌐 Swift | 📅 2019-03-26 - A Swift PlaygroundBook about Neural Networks. 🍁
@@ -174,8 +174,8 @@ Apple's playgrounds distributed as zip archives have to be downloaded manually.
 
 *Algorithms and data structures implemented in Swift*
 
-* [Swift Algorithm Club](https://github.com/raywenderlich/swift-algorithm-club) ⭐ 29,063 | 🐛 62 | 🌐 Swift | 📅 2024-12-06 - Algorithms and data structures in Swift with explanations. 🌟
-* [Expressions](https://github.com/mpangburn/Expressions) ⭐ 394 | 🐛 1 | 🌐 Swift | 📅 2018-02-15 - Arithmetic and logical expressions elegantly modeled and visualized using protocol-oriented binary trees.🍁
+* [Swift Algorithm Club](https://github.com/raywenderlich/swift-algorithm-club) ⭐ 29,065 | 🐛 62 | 🌐 Swift | 📅 2024-12-06 - Algorithms and data structures in Swift with explanations. 🌟
+* [Expressions](https://github.com/mpangburn/Expressions) ⭐ 395 | 🐛 1 | 🌐 Swift | 📅 2018-02-15 - Arithmetic and logical expressions elegantly modeled and visualized using protocol-oriented binary trees.🍁
 * [Julia Fractal Playground](https://github.com/gongzhang/julia-set-playground#julia-set-playground) ⭐ 263 | 🐛 0 | 🌐 Swift | 📅 2021-11-19 - A Swift playground that generates beautiful Julia set fractal images.
 * [Visual Binary Trees](https://github.com/akpw/VisualBinaryTrees) ⭐ 59 | 🐛 2 | 🌐 Swift | 📅 2025-09-20 - Effortless visualization of arbitrary Binary Trees, along with their pluggable traversal implementations. 🌟
 * [A Star](https://github.com/Dev1an/A-Star) ⭐ 41 | 🐛 2 | 🌐 Swift | 📅 2020-08-07 - Protocol oriented A\* pathfinding algorithm implementation in Swift 4.🍁
@@ -202,7 +202,7 @@ Apple's playgrounds distributed as zip archives have to be downloaded manually.
 
 ### Machine Learning
 
-* [Emoji Intelligence](https://github.com/BilalReffas/EmojiIntelligence) ⭐ 1,429 | 🐛 0 | 🌐 Swift | 📅 2018-08-21 - Neural Network built in Apple Playground using Swift. 🌟
+* [Emoji Intelligence](https://github.com/BilalReffas/EmojiIntelligence) ⭐ 1,430 | 🐛 0 | 🌐 Swift | 📅 2018-08-21 - Neural Network built in Apple Playground using Swift. 🌟
 
 ## UIKit And Graphics
 
