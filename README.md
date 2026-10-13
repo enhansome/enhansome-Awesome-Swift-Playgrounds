@@ -62,7 +62,7 @@ Apple's playgrounds distributed as zip archives have to be downloaded manually.
 
 *Playgrounds that can be run on your iPad*
 
-* [Neural Network Playground](https://github.com/hetelek/Neural-Network-Playground) ⭐ 377 | 🐛 1 | 🌐 Swift | 📅 2019-02-12 - A neural network Swift playground, with no third party dependencies.
+* [Neural Network Playground](https://github.com/hetelek/Neural-Network-Playground) ⭐ 376 | 🐛 1 | 🌐 Swift | 📅 2019-02-12 - A neural network Swift playground, with no third party dependencies.
 * [File Browser Playground](https://github.com/steventroughtonsmith/files-playgroundbook) ⭐ 205 | 🐛 2 | 🌐 Swift | 📅 2016-09-15 - Simple File Browser for Swift Playgrounds on iOS.
 * [AudioKit Playground Book](https://github.com/audiokit/Playgrounds) ⭐ 196 | 🐛 10 | 🌐 Swift | 📅 2022-06-02 - A set of playgrounds using AudioKit designed for the iPad Playgrounds app.
 * [Numsw](https://github.com/sonsongithub/numsw) ⭐ 133 | 🐛 7 | 🌐 Swift | 📅 2017-09-30 - A swift playground book that mimics some of the features of numpy and jupyter notebook.
@@ -117,7 +117,7 @@ Apple's playgrounds distributed as zip archives have to be downloaded manually.
 
 ### Design Patterns
 
-* [Design Patterns in Swift](https://github.com/ochococo/Design-Patterns-In-Swift) ⭐ 15,250 | 🐛 4 | 🌐 Swift | 📅 2024-08-03 - Design patterns in Swift 3.
+* [Design Patterns in Swift](https://github.com/ochococo/Design-Patterns-In-Swift) ⭐ 15,248 | 🐛 4 | 🌐 Swift | 📅 2024-08-03 - Design patterns in Swift 3.
 * [The Principles of OOD in Swift 4](https://github.com/ochococo/OOD-Principles-In-Swift) ⭐ 1,895 | 🐛 0 | 🌐 Swift | 📅 2026-03-13 - The Principles of OOD based on Uncle Bob articles.🍁
 * [iOS Design Patterns](https://github.com/haxpor/ios-design-patterns) ⭐ 143 | 🐛 1 | 🌐 Swift | 📅 2020-01-04 - Sample projects for MVC, MVP, MVVM, and VIPER.
 * [GOF Swift](https://github.com/SebastianBoldt/Gang-of-Four-and-Solid-Principles-in-Swift) ⭐ 138 | 🐛 0 | 🌐 Swift | 📅 2018-03-20 - Learn all 23 Gang of Four patterns using Swift.
@@ -174,8 +174,8 @@ Apple's playgrounds distributed as zip archives have to be downloaded manually.
 
 *Algorithms and data structures implemented in Swift*
 
-* [Swift Algorithm Club](https://github.com/raywenderlich/swift-algorithm-club) ⭐ 29,065 | 🐛 62 | 🌐 Swift | 📅 2024-12-06 - Algorithms and data structures in Swift with explanations. 🌟
-* [Expressions](https://github.com/mpangburn/Expressions) ⭐ 395 | 🐛 1 | 🌐 Swift | 📅 2018-02-15 - Arithmetic and logical expressions elegantly modeled and visualized using protocol-oriented binary trees.🍁
+* [Swift Algorithm Club](https://github.com/raywenderlich/swift-algorithm-club) ⭐ 29,063 | 🐛 62 | 🌐 Swift | 📅 2024-12-06 - Algorithms and data structures in Swift with explanations. 🌟
+* [Expressions](https://github.com/mpangburn/Expressions) ⭐ 394 | 🐛 1 | 🌐 Swift | 📅 2018-02-15 - Arithmetic and logical expressions elegantly modeled and visualized using protocol-oriented binary trees.🍁
 * [Julia Fractal Playground](https://github.com/gongzhang/julia-set-playground#julia-set-playground) ⭐ 263 | 🐛 0 | 🌐 Swift | 📅 2021-11-19 - A Swift playground that generates beautiful Julia set fractal images.
 * [Visual Binary Trees](https://github.com/akpw/VisualBinaryTrees) ⭐ 59 | 🐛 2 | 🌐 Swift | 📅 2025-09-20 - Effortless visualization of arbitrary Binary Trees, along with their pluggable traversal implementations. 🌟
 * [A Star](https://github.com/Dev1an/A-Star) ⭐ 41 | 🐛 2 | 🌐 Swift | 📅 2020-08-07 - Protocol oriented A\* pathfinding algorithm implementation in Swift 4.🍁
@@ -192,7 +192,7 @@ Apple's playgrounds distributed as zip archives have to be downloaded manually.
 *Programming language interpreters implemented in Swift*
 
 * [Write your own language: Mu](https://github.com/marciok/Mu) ⭐ 1,047 | 🐛 1 | 🌐 Swift | 📅 2020-02-06 - A playground explaining how to create a tiny programming language named Mu. 🌟
-* [Introduction to Compilers](https://github.com/ahoppen/introduction-to-compilers) ⭐ 476 | 🐛 0 | 🌐 Swift | 📅 2020-04-09 - Great introduction to the inner workings of compilers. 🍁🌟
+* [Introduction to Compilers](https://github.com/ahoppen/introduction-to-compilers) ⭐ 475 | 🐛 0 | 🌐 Swift | 📅 2020-04-09 - Great introduction to the inner workings of compilers. 🍁🌟
 * [Pascal Interpreter](https://github.com/igorkulman/SwiftPascalInterpreter) ⭐ 295 | 🐛 0 | 🌐 Swift | 📅 2022-11-18 - Simple Swift interpreter for the Pascal language inspired by the Let’s Build A Simple Interpreter article series. 🍁
 * [Let's build a compiler in Swift](https://github.com/mkchoi212/LBAC-Swift) ⭐ 163 | 🐛 0 | 🌐 Swift | 📅 2018-01-06 - Let's Build a Compiler by Jack Crenshaw translated to Swift Playgrounds. 🌟
 * [Turtle Playground](https://github.com/dimsumthinking/TurtlePlayground) ⭐ 126 | 🐛 1 | 🌐 Swift | 📅 2016-02-20 - A playground with Logo-like commands. 🌟 ⏳
@@ -321,4 +321,4 @@ Apple's playgrounds distributed as zip archives have to be downloaded manually.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-11._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-13._

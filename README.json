@@ -74,7 +74,7 @@
             "open_issues": 1,
             "owner": "hetelek",
             "repo": "Neural-Network-Playground",
-            "stars": 377,
+            "stars": 376,
             "topics": [
               "computer-vision",
               "neural-network",
@@ -1060,7 +1060,7 @@
                 "open_issues": 4,
                 "owner": "ochococo",
                 "repo": "Design-Patterns-In-Swift",
-                "stars": 15250,
+                "stars": 15248,
                 "topics": [
                   "computer-science",
                   "design-patterns",
@@ -1661,7 +1661,7 @@
                 "open_issues": 62,
                 "owner": "kodecocodes",
                 "repo": "swift-algorithm-club",
-                "stars": 29065,
+                "stars": 29063,
                 "topics": [
                   "algorithms",
                   "data-structures",
@@ -1686,7 +1686,7 @@
                 "open_issues": 1,
                 "owner": "mpangburn",
                 "repo": "Expressions",
-                "stars": 395,
+                "stars": 394,
                 "topics": []
               },
               "first_seen": "2026-08-29T02:34:18.774Z"
@@ -1938,7 +1938,7 @@
                 "open_issues": 0,
                 "owner": "ahoppen",
                 "repo": "introduction-to-compilers",
-                "stars": 476,
+                "stars": 475,
                 "topics": []
               },
               "first_seen": "2026-08-29T02:34:18.774Z"
@@ -3711,7 +3711,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-11T23:17:42.114Z",
+    "last_updated": "2026-10-13T01:42:44.972Z",
     "original_repository_info": {
       "archived": false,
       "description": "A List of Awesome Swift Playgrounds",
@@ -3723,7 +3723,7 @@
       "open_issues": 1,
       "owner": "uraimo",
       "repo": "Awesome-Swift-Playgrounds",
-      "stars": 4389,
+      "stars": 4388,
       "topics": [
         "apple",
         "apple-playground",
