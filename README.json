@@ -529,7 +529,7 @@
             "open_issues": 0,
             "owner": "ole",
             "repo": "whats-new-in-swift-4",
-            "stars": 1814,
+            "stars": 1813,
             "topics": [
               "playground",
               "swift",
@@ -3711,7 +3711,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-16T22:18:27.035Z",
+    "last_updated": "2026-10-17T21:50:30.942Z",
     "original_repository_info": {
       "archived": false,
       "description": "A List of Awesome Swift Playgrounds",
@@ -3723,7 +3723,7 @@
       "open_issues": 1,
       "owner": "uraimo",
       "repo": "Awesome-Swift-Playgrounds",
-      "stars": 4387,
+      "stars": 4388,
       "topics": [
         "apple",
         "apple-playground",
