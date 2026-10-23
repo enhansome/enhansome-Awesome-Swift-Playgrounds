@@ -64,14 +64,14 @@ Apple's playgrounds distributed as zip archives have to be downloaded manually.
 
 * [Neural Network Playground](https://github.com/hetelek/Neural-Network-Playground) ⭐ 376 | 🐛 1 | 🌐 Swift | 📅 2019-02-12 - A neural network Swift playground, with no third party dependencies.
 * [File Browser Playground](https://github.com/steventroughtonsmith/files-playgroundbook) ⭐ 205 | 🐛 2 | 🌐 Swift | 📅 2016-09-15 - Simple File Browser for Swift Playgrounds on iOS.
-* [AudioKit Playground Book](https://github.com/audiokit/Playgrounds) ⭐ 197 | 🐛 10 | 🌐 Swift | 📅 2022-06-02 - A set of playgrounds using AudioKit designed for the iPad Playgrounds app.
+* [AudioKit Playground Book](https://github.com/audiokit/Playgrounds) ⭐ 196 | 🐛 10 | 🌐 Swift | 📅 2022-06-02 - A set of playgrounds using AudioKit designed for the iPad Playgrounds app.
 * [Numsw](https://github.com/sonsongithub/numsw) ⭐ 133 | 🐛 7 | 🌐 Swift | 📅 2017-09-30 - A swift playground book that mimics some of the features of numpy and jupyter notebook.
 * [Image Filtering](https://github.com/lennet/image-filtering) ⭐ 82 | 🐛 0 | 🌐 Swift | 📅 2020-02-11 - A Swift playgroundbook about Image Filtering. 🍁🌟
 * [Neural Network](https://github.com/lennet/neuralnetwork) ⭐ 57 | 🐛 0 | 🌐 Swift | 📅 2019-03-26 - A Swift PlaygroundBook about Neural Networks. 🍁
 * [coreml-playground](https://github.com/kkk669/coreml-playground) ⚠️ Archived - Core ML examples for Swift Playgrounds. 🍁
 * [TJBot Playground](https://github.com/jweisz/tjbot-playground) ⭐ 38 | 🐛 2 | 🌐 Swift | 📅 2019-05-08 - Swift Playground for interacting with IBM's TJBot. 🍁
 * [Window Manager Playground](https://github.com/steventroughtonsmith/windowmanager-playgroundbook) ⭐ 37 | 🐛 1 | 🌐 Swift | 📅 2016-12-23 - Playground for an experimental window manager.
-* [Spacetime Rhapsody](https://github.com/hollisliu/Spacetime-Rhapsody) ⭐ 27 | 🐛 1 | 🌐 Swift | 📅 2017-05-10 - A Swift Playground visualizing gravity based on Einstein's Theory of General Relativity. 🌟
+* [Spacetime Rhapsody](https://github.com/hollisliu/Spacetime-Rhapsody) ⭐ 28 | 🐛 1 | 🌐 Swift | 📅 2017-05-10 - A Swift Playground visualizing gravity based on Einstein's Theory of General Relativity. 🌟
 * [Accessible Reality](https://github.com/aheze/AccessibleReality) ⭐ 27 | 🐛 0 | 🌐 Swift | 📅 2021-06-01 - for learning the basics of ARKit through interactive lessons. 🍁
 * [Tree Trouble Playbook](https://github.com/joelrorseth/Tree-Trouble) ⭐ 25 | 🐛 1 | 🌐 Swift | 📅 2017-04-04 - An interactive Swift Playground Book about Binary Search Trees.
 * [Guilloche Pattern Playground Book](https://github.com/TheWildHorse/GuillochePlayground) ⭐ 22 | 🐛 1 | 🌐 Swift | 📅 2020-07-31 - Learn more about this pattern you see every day, but probably never knew it was really carefully designed. 🍁
@@ -117,7 +117,7 @@ Apple's playgrounds distributed as zip archives have to be downloaded manually.
 
 ### Design Patterns
 
-* [Design Patterns in Swift](https://github.com/ochococo/Design-Patterns-In-Swift) ⭐ 15,244 | 🐛 4 | 🌐 Swift | 📅 2024-08-03 - Design patterns in Swift 3.
+* [Design Patterns in Swift](https://github.com/ochococo/Design-Patterns-In-Swift) ⭐ 15,242 | 🐛 4 | 🌐 Swift | 📅 2024-08-03 - Design patterns in Swift 3.
 * [The Principles of OOD in Swift 4](https://github.com/ochococo/OOD-Principles-In-Swift) ⭐ 1,894 | 🐛 0 | 🌐 Swift | 📅 2026-03-13 - The Principles of OOD based on Uncle Bob articles.🍁
 * [iOS Design Patterns](https://github.com/haxpor/ios-design-patterns) ⭐ 142 | 🐛 1 | 🌐 Swift | 📅 2020-01-04 - Sample projects for MVC, MVP, MVVM, and VIPER.
 * [GOF Swift](https://github.com/SebastianBoldt/Gang-of-Four-and-Solid-Principles-in-Swift) ⭐ 138 | 🐛 0 | 🌐 Swift | 📅 2018-03-20 - Learn all 23 Gang of Four patterns using Swift.
@@ -174,7 +174,7 @@ Apple's playgrounds distributed as zip archives have to be downloaded manually.
 
 *Algorithms and data structures implemented in Swift*
 
-* [Swift Algorithm Club](https://github.com/raywenderlich/swift-algorithm-club) ⭐ 29,063 | 🐛 62 | 🌐 Swift | 📅 2024-12-06 - Algorithms and data structures in Swift with explanations. 🌟
+* [Swift Algorithm Club](https://github.com/raywenderlich/swift-algorithm-club) ⭐ 29,061 | 🐛 62 | 🌐 Swift | 📅 2024-12-06 - Algorithms and data structures in Swift with explanations. 🌟
 * [Expressions](https://github.com/mpangburn/Expressions) ⭐ 395 | 🐛 1 | 🌐 Swift | 📅 2018-02-15 - Arithmetic and logical expressions elegantly modeled and visualized using protocol-oriented binary trees.🍁
 * [Julia Fractal Playground](https://github.com/gongzhang/julia-set-playground#julia-set-playground) ⭐ 263 | 🐛 0 | 🌐 Swift | 📅 2021-11-19 - A Swift playground that generates beautiful Julia set fractal images.
 * [Visual Binary Trees](https://github.com/akpw/VisualBinaryTrees) ⭐ 59 | 🐛 2 | 🌐 Swift | 📅 2025-09-20 - Effortless visualization of arbitrary Binary Trees, along with their pluggable traversal implementations. 🌟
@@ -321,4 +321,4 @@ Apple's playgrounds distributed as zip archives have to be downloaded manually.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-22._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-23._
