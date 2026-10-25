@@ -55,7 +55,7 @@ Apple's playgrounds distributed as zip archives have to be downloaded manually.
 
 *Playgrounds submitted by students for the WWDC scholarship*
 
-* Past Editions: [2025](https://github.com/wwdc/2025) ⭐ 81 | 🐛 0 | 🌐 Swift | 📅 2026-08-04, [2024](https://github.com/wwdc/2024) ⭐ 6 | 🐛 0 | 🌐 Swift | 📅 2025-08-19, [2023](https://github.com/wwdc/2023) ⭐ 99 | 🐛 0 | 🌐 Swift | 📅 2025-02-21, [2022](https://github.com/wwdc/2022) ⭐ 160 | 🐛 0 | 🌐 Swift | 📅 2025-06-13, [2021](https://github.com/wwdc/2021) ⭐ 184 | 🐛 0 | 🌐 Swift | 📅 2026-08-07, [2020](https://github.com/wwdc/2020) ⭐ 215 | 🐛 1 | 🌐 Swift | 📅 2025-02-26, [2019](https://github.com/wwdc/2019) ⭐ 283 | 🐛 3 | 📅 2026-08-07, [2018](https://github.com/wwdc/2018) ⭐ 265 | 🐛 3 | 📅 2021-09-27, [2017](https://github.com/wwdc/2017) ⭐ 240 | 🐛 0 | 📅 2019-03-28, [2016](https://github.com/wwdc/2016) ⭐ 83 | 🐛 0 | 📅 2018-04-11, [2015](https://github.com/wwdc/2015) ⭐ 132 | 🐛 0 | 📅 2018-11-06, [2014](https://github.com/wwdc/2014) ⭐ 183 | 🐛 0 | 📅 2021-06-04
+* Past Editions: [2025](https://github.com/wwdc/2025) ⭐ 81 | 🐛 0 | 🌐 Swift | 📅 2026-08-04, [2024](https://github.com/wwdc/2024) ⭐ 6 | 🐛 1 | 🌐 Swift | 📅 2025-08-19, [2023](https://github.com/wwdc/2023) ⭐ 99 | 🐛 0 | 🌐 Swift | 📅 2025-02-21, [2022](https://github.com/wwdc/2022) ⭐ 160 | 🐛 0 | 🌐 Swift | 📅 2025-06-13, [2021](https://github.com/wwdc/2021) ⭐ 184 | 🐛 0 | 🌐 Swift | 📅 2026-08-07, [2020](https://github.com/wwdc/2020) ⭐ 215 | 🐛 1 | 🌐 Swift | 📅 2025-02-26, [2019](https://github.com/wwdc/2019) ⭐ 283 | 🐛 3 | 📅 2026-08-07, [2018](https://github.com/wwdc/2018) ⭐ 265 | 🐛 3 | 📅 2021-09-27, [2017](https://github.com/wwdc/2017) ⭐ 240 | 🐛 0 | 📅 2019-03-28, [2016](https://github.com/wwdc/2016) ⭐ 83 | 🐛 0 | 📅 2018-04-11, [2015](https://github.com/wwdc/2015) ⭐ 132 | 🐛 0 | 📅 2018-11-06, [2014](https://github.com/wwdc/2014) ⭐ 183 | 🐛 0 | 📅 2021-06-04
 * Latest: [2026](https://github.com/wwdc/2026) ⭐ 43 | 🐛 2 | 🌐 Swift | 📅 2026-06-22
 
 ## PlaygroundBooks
@@ -321,4 +321,4 @@ Apple's playgrounds distributed as zip archives have to be downloaded manually.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-24._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-25._
