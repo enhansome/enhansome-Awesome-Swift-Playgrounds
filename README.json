@@ -100,7 +100,7 @@
             "open_issues": 2,
             "owner": "steventroughtonsmith",
             "repo": "files-playgroundbook",
-            "stars": 206,
+            "stars": 207,
             "topics": []
           },
           "first_seen": "2026-08-29T02:34:18.774Z"
@@ -1060,7 +1060,7 @@
                 "open_issues": 4,
                 "owner": "ochococo",
                 "repo": "Design-Patterns-In-Swift",
-                "stars": 15236,
+                "stars": 15235,
                 "topics": [
                   "computer-science",
                   "design-patterns",
@@ -1123,7 +1123,7 @@
                 "open_issues": 1,
                 "owner": "haxpor",
                 "repo": "ios-design-patterns",
-                "stars": 142,
+                "stars": 141,
                 "topics": [
                   "architecture",
                   "design",
@@ -3711,7 +3711,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-30T23:21:22.695Z",
+    "last_updated": "2026-10-31T22:54:15.289Z",
     "original_repository_info": {
       "archived": false,
       "description": "A List of Awesome Swift Playgrounds",

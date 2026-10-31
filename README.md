@@ -63,7 +63,7 @@ Apple's playgrounds distributed as zip archives have to be downloaded manually.
 *Playgrounds that can be run on your iPad*
 
 * [Neural Network Playground](https://github.com/hetelek/Neural-Network-Playground) ⭐ 376 | 🐛 1 | 🌐 Swift | 📅 2019-02-12 - A neural network Swift playground, with no third party dependencies.
-* [File Browser Playground](https://github.com/steventroughtonsmith/files-playgroundbook) ⭐ 206 | 🐛 2 | 🌐 Swift | 📅 2016-09-15 - Simple File Browser for Swift Playgrounds on iOS.
+* [File Browser Playground](https://github.com/steventroughtonsmith/files-playgroundbook) ⭐ 207 | 🐛 2 | 🌐 Swift | 📅 2016-09-15 - Simple File Browser for Swift Playgrounds on iOS.
 * [AudioKit Playground Book](https://github.com/audiokit/Playgrounds) ⭐ 196 | 🐛 10 | 🌐 Swift | 📅 2022-06-02 - A set of playgrounds using AudioKit designed for the iPad Playgrounds app.
 * [Numsw](https://github.com/sonsongithub/numsw) ⭐ 133 | 🐛 7 | 🌐 Swift | 📅 2017-09-30 - A swift playground book that mimics some of the features of numpy and jupyter notebook.
 * [Image Filtering](https://github.com/lennet/image-filtering) ⭐ 82 | 🐛 0 | 🌐 Swift | 📅 2020-02-11 - A Swift playgroundbook about Image Filtering. 🍁🌟
@@ -117,9 +117,9 @@ Apple's playgrounds distributed as zip archives have to be downloaded manually.
 
 ### Design Patterns
 
-* [Design Patterns in Swift](https://github.com/ochococo/Design-Patterns-In-Swift) ⭐ 15,236 | 🐛 4 | 🌐 Swift | 📅 2024-08-03 - Design patterns in Swift 3.
+* [Design Patterns in Swift](https://github.com/ochococo/Design-Patterns-In-Swift) ⭐ 15,235 | 🐛 4 | 🌐 Swift | 📅 2024-08-03 - Design patterns in Swift 3.
 * [The Principles of OOD in Swift 4](https://github.com/ochococo/OOD-Principles-In-Swift) ⭐ 1,894 | 🐛 0 | 🌐 Swift | 📅 2026-03-13 - The Principles of OOD based on Uncle Bob articles.🍁
-* [iOS Design Patterns](https://github.com/haxpor/ios-design-patterns) ⭐ 142 | 🐛 1 | 🌐 Swift | 📅 2020-01-04 - Sample projects for MVC, MVP, MVVM, and VIPER.
+* [iOS Design Patterns](https://github.com/haxpor/ios-design-patterns) ⭐ 141 | 🐛 1 | 🌐 Swift | 📅 2020-01-04 - Sample projects for MVC, MVP, MVVM, and VIPER.
 * [GOF Swift](https://github.com/SebastianBoldt/Gang-of-Four-and-Solid-Principles-in-Swift) ⭐ 138 | 🐛 0 | 🌐 Swift | 📅 2018-03-20 - Learn all 23 Gang of Four patterns using Swift.
 * [Design Patterns Playground](https://github.com/edopelawi/DesignPatternsPlayground) ⭐ 27 | 🐛 0 | 🌐 Swift | 📅 2017-07-18 - Learning GoF's Design Patterns in Swift 3.
 
@@ -321,4 +321,4 @@ Apple's playgrounds distributed as zip archives have to be downloaded manually.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-30._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-31._
