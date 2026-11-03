@@ -86,7 +86,7 @@ Apple's playgrounds distributed as zip archives have to be downloaded manually.
 *Some interesting playgrounds to learn Swift*
 
 * [What's new in Swift 4](https://github.com/ole/whats-new-in-swift-4) ⚠️ Archived - An Xcode playground showing off the new features in Swift 4.0. 🍁 🌟
-* [The Swift Summary Book](https://github.com/jakarmy/swift-summary) ⭐ 1,660 | 🐛 3 | 🌐 Swift | 📅 2021-12-27 - A summary of Apple's Swift language. 🌟
+* [The Swift Summary Book](https://github.com/jakarmy/swift-summary) ⭐ 1,659 | 🐛 3 | 🌐 Swift | 📅 2021-12-27 - A summary of Apple's Swift language. 🌟
 * [What's new in Swift 4.2](https://github.com/ole/whats-new-in-swift-4-2) ⚠️ Archived - An Xcode playground showing off the new features in Swift 4.2. 🍁 🌟
 * [The Swift Programming Language Playgrounds](https://github.com/danielpi/Swift-Playgrounds) ⭐ 232 | 🐛 0 | 🌐 Swift | 📅 2021-10-13 - 40+ playgrounds, one for each chapter of Apple's Swift book. 🌟
 * [Swifter Tips](https://github.com/swifter-tips/Playground) ⭐ 124 | 🐛 0 | 🌐 Swift | 📅 2016-09-15 - Examples for every feature of the Swift language.
@@ -277,7 +277,7 @@ Apple's playgrounds distributed as zip archives have to be downloaded manually.
 
 *Library tutorials, in a playground*
 
-* [AIToolbox](https://github.com/KevinCoble/AIToolbox/tree/master/Playgrounds) ⭐ 809 | 🐛 6 | 🌐 Swift | 📅 2020-08-09 - A set of playgrounds showing machine learning algorithms, all implemented with pieces of the AIToolbox framework code.
+* [AIToolbox](https://github.com/KevinCoble/AIToolbox/tree/master/Playgrounds) ⭐ 808 | 🐛 6 | 🌐 Swift | 📅 2020-08-09 - A set of playgrounds showing machine learning algorithms, all implemented with pieces of the AIToolbox framework code.
 * [Cognitive Service APIs](https://github.com/codePrincess/playgrounds) ⭐ 56 | 🐛 1 | 🌐 Swift | 📅 2018-09-17 - Get started with the Microsoft Cognitive Services APIs.
 * [Rx Playground](https://github.com/sgr-ksmt/RxPlayground) ⭐ 6 | 🐛 0 | 🌐 Swift | 📅 2020-03-25 - A playground with RxSwift examples.
 * [AudioKit Playgrounds](https://audiokit.io/playgrounds/) - 130+ Audio synthesis, processing, playback, and analysis playgrounds with AudioKit.
@@ -321,4 +321,4 @@ Apple's playgrounds distributed as zip archives have to be downloaded manually.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-01._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-03._

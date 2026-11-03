@@ -554,7 +554,7 @@
             "open_issues": 3,
             "owner": "jakarmy",
             "repo": "swift-summary",
-            "stars": 1660,
+            "stars": 1659,
             "topics": [
               "apple",
               "apple-documentation",
@@ -3087,7 +3087,7 @@
             "open_issues": 6,
             "owner": "KevinCoble",
             "repo": "AIToolbox",
-            "stars": 809,
+            "stars": 808,
             "topics": []
           },
           "first_seen": "2026-08-29T02:34:18.774Z"
@@ -3711,7 +3711,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-01T23:12:38.068Z",
+    "last_updated": "2026-11-03T01:54:34.635Z",
     "original_repository_info": {
       "archived": false,
       "description": "A List of Awesome Swift Playgrounds",
@@ -3723,7 +3723,7 @@
       "open_issues": 1,
       "owner": "uraimo",
       "repo": "Awesome-Swift-Playgrounds",
-      "stars": 4392,
+      "stars": 4393,
       "topics": [
         "apple",
         "apple-playground",
