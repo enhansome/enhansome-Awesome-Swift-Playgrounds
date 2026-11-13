@@ -89,7 +89,7 @@ Apple's playgrounds distributed as zip archives have to be downloaded manually.
 * [The Swift Summary Book](https://github.com/jakarmy/swift-summary) ⭐ 1,658 | 🐛 3 | 🌐 Swift | 📅 2021-12-27 - A summary of Apple's Swift language. 🌟
 * [What's new in Swift 4.2](https://github.com/ole/whats-new-in-swift-4-2) ⚠️ Archived - An Xcode playground showing off the new features in Swift 4.2. 🍁 🌟
 * [The Swift Programming Language Playgrounds](https://github.com/danielpi/Swift-Playgrounds) ⭐ 232 | 🐛 0 | 🌐 Swift | 📅 2021-10-13 - 40+ playgrounds, one for each chapter of Apple's Swift book. 🌟
-* [Swifter Tips](https://github.com/swifter-tips/Playground) ⭐ 124 | 🐛 0 | 🌐 Swift | 📅 2016-09-15 - Examples for every feature of the Swift language.
+* [Swifter Tips](https://github.com/swifter-tips/Playground) ⭐ 123 | 🐛 0 | 🌐 Swift | 📅 2016-09-15 - Examples for every feature of the Swift language.
 * [About Swift](https://github.com/NicolaLancellotti-About/About-Swift) ⭐ 84 | 🐛 0 | 🌐 Swift | 📅 2024-10-12 - A playground about Swift language.  🍁
 * [Swift String Cheat Sheet](https://github.com/kharrison/Playground-Strings) ⭐ 61 | 🐛 0 | 🌐 Swift | 📅 2023-04-14 - A quick guide to using Strings with Swift. 🍁
 * [Swift Hack Pack](https://github.com/GuildSA/swift-hack-pack) ⭐ 23 | 🐛 0 | 🌐 Swift | 📅 2018-12-21 - Collection of playgrounds that teaches Swift.
@@ -321,4 +321,4 @@ Apple's playgrounds distributed as zip archives have to be downloaded manually.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-12._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-13._
