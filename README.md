@@ -89,7 +89,7 @@ Apple's playgrounds distributed as zip archives have to be downloaded manually.
 * [The Swift Summary Book](https://github.com/jakarmy/swift-summary) ⭐ 1,658 | 🐛 3 | 🌐 Swift | 📅 2021-12-27 - A summary of Apple's Swift language. 🌟
 * [What's new in Swift 4.2](https://github.com/ole/whats-new-in-swift-4-2) ⚠️ Archived - An Xcode playground showing off the new features in Swift 4.2. 🍁 🌟
 * [The Swift Programming Language Playgrounds](https://github.com/danielpi/Swift-Playgrounds) ⭐ 232 | 🐛 0 | 🌐 Swift | 📅 2021-10-13 - 40+ playgrounds, one for each chapter of Apple's Swift book. 🌟
-* [Swifter Tips](https://github.com/swifter-tips/Playground) ⭐ 123 | 🐛 0 | 🌐 Swift | 📅 2016-09-15 - Examples for every feature of the Swift language.
+* [Swifter Tips](https://github.com/swifter-tips/Playground) ⭐ 124 | 🐛 0 | 🌐 Swift | 📅 2016-09-15 - Examples for every feature of the Swift language.
 * [About Swift](https://github.com/NicolaLancellotti-About/About-Swift) ⭐ 84 | 🐛 0 | 🌐 Swift | 📅 2024-10-12 - A playground about Swift language.  🍁
 * [Swift String Cheat Sheet](https://github.com/kharrison/Playground-Strings) ⭐ 61 | 🐛 0 | 🌐 Swift | 📅 2023-04-14 - A quick guide to using Strings with Swift. 🍁
 * [Swift Hack Pack](https://github.com/GuildSA/swift-hack-pack) ⭐ 23 | 🐛 0 | 🌐 Swift | 📅 2018-12-21 - Collection of playgrounds that teaches Swift.
@@ -117,7 +117,7 @@ Apple's playgrounds distributed as zip archives have to be downloaded manually.
 
 ### Design Patterns
 
-* [Design Patterns in Swift](https://github.com/ochococo/Design-Patterns-In-Swift) ⭐ 15,234 | 🐛 4 | 🌐 Swift | 📅 2024-08-03 - Design patterns in Swift 3.
+* [Design Patterns in Swift](https://github.com/ochococo/Design-Patterns-In-Swift) ⭐ 15,233 | 🐛 4 | 🌐 Swift | 📅 2024-08-03 - Design patterns in Swift 3.
 * [The Principles of OOD in Swift 4](https://github.com/ochococo/OOD-Principles-In-Swift) ⭐ 1,895 | 🐛 0 | 🌐 Swift | 📅 2026-03-13 - The Principles of OOD based on Uncle Bob articles.🍁
 * [iOS Design Patterns](https://github.com/haxpor/ios-design-patterns) ⭐ 141 | 🐛 1 | 🌐 Swift | 📅 2020-01-04 - Sample projects for MVC, MVP, MVVM, and VIPER.
 * [GOF Swift](https://github.com/SebastianBoldt/Gang-of-Four-and-Solid-Principles-in-Swift) ⭐ 138 | 🐛 0 | 🌐 Swift | 📅 2018-03-20 - Learn all 23 Gang of Four patterns using Swift.
@@ -288,7 +288,7 @@ Apple's playgrounds distributed as zip archives have to be downloaded manually.
 
 * [Public Extensions](https://github.com/Jasdev/Public-Extension) ⭐ 298 | 🐛 0 | 🌐 Swift | 📅 2018-02-27 - A set of useful extensions from [@PublicExtension](https://twitter.com/publicextension). 🌟
 * [Parks And Recreation](https://github.com/zwaldowski/ParksAndRecreation) ⭐ 178 | 🐛 0 | 🌐 Swift | 📅 2025-07-20 - Great collection of interesting playgrounds, for fun and for profit. 🍁🌟
-* [URaimo's Playgrounds](https://github.com/uraimo/Swift-Playgrounds) ⭐ 137 | 🐛 0 | 🌐 Swift | 📅 2019-02-13 - My playgrounds, various topics. 🍁
+* [URaimo's Playgrounds](https://github.com/uraimo/Swift-Playgrounds) ⭐ 138 | 🐛 0 | 🌐 Swift | 📅 2019-02-13 - My playgrounds, various topics. 🍁
 * [Cocoa With Love Playgrounds](https://github.com/mattgallagher/CocoaWithLovePlaygrounds) ⭐ 88 | 🐛 0 | 🌐 Swift | 📅 2018-10-25 - Playground versions of select articles from Cocoa with Love.  🌟
 * [BradLarson's Playgrounds](https://github.com/BradLarson/PersonalSwiftPlaygrounds) ⭐ 20 | 🐛 1 | 🌐 Swift | 📅 2014-09-29 - Various playgrounds. ⏳
 * [Dmikusa's Playgrounds](https://github.com/dmikusa/swift_playgrounds) ⚠️ Archived - Playgrounds that show basic Swift, JSON parsing, sending HTTP requests and basic file IO. ⏳
@@ -321,4 +321,4 @@ Apple's playgrounds distributed as zip archives have to be downloaded manually.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-13._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-14._

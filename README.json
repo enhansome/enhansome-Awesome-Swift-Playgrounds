@@ -632,7 +632,7 @@
             "open_issues": 0,
             "owner": "swifter-tips",
             "repo": "Playground",
-            "stars": 123,
+            "stars": 124,
             "topics": []
           },
           "first_seen": "2026-08-29T02:34:18.774Z"
@@ -1060,7 +1060,7 @@
                 "open_issues": 4,
                 "owner": "ochococo",
                 "repo": "Design-Patterns-In-Swift",
-                "stars": 15234,
+                "stars": 15233,
                 "topics": [
                   "computer-science",
                   "design-patterns",
@@ -3198,7 +3198,7 @@
             "open_issues": 0,
             "owner": "uraimo",
             "repo": "Swift-Playgrounds",
-            "stars": 137,
+            "stars": 138,
             "topics": [
               "bitwise-operators",
               "concurrency",
@@ -3711,7 +3711,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-13T00:46:46.476Z",
+    "last_updated": "2026-11-14T00:32:04.823Z",
     "original_repository_info": {
       "archived": false,
       "description": "A List of Awesome Swift Playgrounds",
