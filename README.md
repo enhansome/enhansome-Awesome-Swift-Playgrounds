@@ -55,7 +55,7 @@ Apple's playgrounds distributed as zip archives have to be downloaded manually.
 
 *Playgrounds submitted by students for the WWDC scholarship*
 
-* Past Editions: [2025](https://github.com/wwdc/2025) ⭐ 81 | 🐛 0 | 🌐 Swift | 📅 2026-08-04, [2024](https://github.com/wwdc/2024) ⭐ 6 | 🐛 1 | 🌐 Swift | 📅 2025-08-19, [2023](https://github.com/wwdc/2023) ⭐ 99 | 🐛 0 | 🌐 Swift | 📅 2025-02-21, [2022](https://github.com/wwdc/2022) ⭐ 160 | 🐛 0 | 🌐 Swift | 📅 2025-06-13, [2021](https://github.com/wwdc/2021) ⭐ 184 | 🐛 0 | 🌐 Swift | 📅 2026-08-07, [2020](https://github.com/wwdc/2020) ⭐ 215 | 🐛 1 | 🌐 Swift | 📅 2025-02-26, [2019](https://github.com/wwdc/2019) ⭐ 282 | 🐛 3 | 📅 2026-08-07, [2018](https://github.com/wwdc/2018) ⭐ 265 | 🐛 3 | 📅 2021-09-27, [2017](https://github.com/wwdc/2017) ⭐ 240 | 🐛 0 | 📅 2019-03-28, [2016](https://github.com/wwdc/2016) ⭐ 82 | 🐛 0 | 📅 2018-04-11, [2015](https://github.com/wwdc/2015) ⭐ 132 | 🐛 0 | 📅 2018-11-06, [2014](https://github.com/wwdc/2014) ⭐ 183 | 🐛 0 | 📅 2021-06-04
+* Past Editions: [2025](https://github.com/wwdc/2025) ⭐ 81 | 🐛 0 | 🌐 Swift | 📅 2026-08-04, [2024](https://github.com/wwdc/2024) ⭐ 6 | 🐛 1 | 🌐 Swift | 📅 2025-08-19, [2023](https://github.com/wwdc/2023) ⭐ 98 | 🐛 0 | 🌐 Swift | 📅 2025-02-21, [2022](https://github.com/wwdc/2022) ⭐ 160 | 🐛 0 | 🌐 Swift | 📅 2025-06-13, [2021](https://github.com/wwdc/2021) ⭐ 184 | 🐛 0 | 🌐 Swift | 📅 2026-08-07, [2020](https://github.com/wwdc/2020) ⭐ 215 | 🐛 1 | 🌐 Swift | 📅 2025-02-26, [2019](https://github.com/wwdc/2019) ⭐ 282 | 🐛 3 | 📅 2026-08-07, [2018](https://github.com/wwdc/2018) ⭐ 265 | 🐛 3 | 📅 2021-09-27, [2017](https://github.com/wwdc/2017) ⭐ 240 | 🐛 0 | 📅 2019-03-28, [2016](https://github.com/wwdc/2016) ⭐ 82 | 🐛 0 | 📅 2018-04-11, [2015](https://github.com/wwdc/2015) ⭐ 132 | 🐛 0 | 📅 2018-11-06, [2014](https://github.com/wwdc/2014) ⭐ 183 | 🐛 0 | 📅 2021-06-04
 * Latest: [2026](https://github.com/wwdc/2026) ⭐ 44 | 🐛 3 | 🌐 Swift | 📅 2026-06-22
 
 ## PlaygroundBooks
@@ -86,7 +86,7 @@ Apple's playgrounds distributed as zip archives have to be downloaded manually.
 *Some interesting playgrounds to learn Swift*
 
 * [What's new in Swift 4](https://github.com/ole/whats-new-in-swift-4) ⚠️ Archived - An Xcode playground showing off the new features in Swift 4.0. 🍁 🌟
-* [The Swift Summary Book](https://github.com/jakarmy/swift-summary) ⭐ 1,659 | 🐛 3 | 🌐 Swift | 📅 2021-12-27 - A summary of Apple's Swift language. 🌟
+* [The Swift Summary Book](https://github.com/jakarmy/swift-summary) ⭐ 1,658 | 🐛 3 | 🌐 Swift | 📅 2021-12-27 - A summary of Apple's Swift language. 🌟
 * [What's new in Swift 4.2](https://github.com/ole/whats-new-in-swift-4-2) ⚠️ Archived - An Xcode playground showing off the new features in Swift 4.2. 🍁 🌟
 * [The Swift Programming Language Playgrounds](https://github.com/danielpi/Swift-Playgrounds) ⭐ 232 | 🐛 0 | 🌐 Swift | 📅 2021-10-13 - 40+ playgrounds, one for each chapter of Apple's Swift book. 🌟
 * [Swifter Tips](https://github.com/swifter-tips/Playground) ⭐ 124 | 🐛 0 | 🌐 Swift | 📅 2016-09-15 - Examples for every feature of the Swift language.
@@ -101,7 +101,7 @@ Apple's playgrounds distributed as zip archives have to be downloaded manually.
 
 *Advanced topics, useful once you have mastered the basics of the language*
 
-* [A Swift Introduction to Core Data](https://github.com/andyshep/CoreDataPlaygrounds) ⭐ 153 | 🐛 0 | 🌐 Swift | 📅 2019-09-09 - Learn Core Data experimenting directly in this playground. 🌟
+* [A Swift Introduction to Core Data](https://github.com/andyshep/CoreDataPlaygrounds) ⭐ 152 | 🐛 0 | 🌐 Swift | 📅 2019-09-09 - Learn Core Data experimenting directly in this playground. 🌟
 * [Swiftly Typed Resources](https://github.com/jstart/Swiftly-Typed-Resources) ⭐ 74 | 🐛 0 | 🌐 Swift | 📅 2017-05-31 - A playground showing how Swift makes Strings, Colors, Fonts, Images, etc easier to deal with. ⏳
 * [TDDSwiftPlayground](https://github.com/sshrpe/TDDSwiftPlayground) ⭐ 59 | 🐛 0 | 🌐 Swift | 📅 2019-11-26 - Demonstration of using Swift Playgrounds in Test Driven Development with XCTest.
 * [Modern Core Data](https://github.com/dfreniche/modern-core-data-playground) ⭐ 36 | 🐛 0 | 🌐 Swift | 📅 2017-09-14 - An introduction to Core Data.
@@ -111,7 +111,7 @@ Apple's playgrounds distributed as zip archives have to be downloaded manually.
 * [Swift DSL Example](https://github.com/cfdrake/swift-dsl-example) ⭐ 20 | 🐛 0 | 🌐 Swift | 📅 2017-06-17 - Implementation of a DSL in Swift.
 * [Swift Regular Expressions](https://github.com/ogulcan/SwiftRegEx) ⭐ 11 | 🐛 0 | 🌐 Swift | 📅 2017-10-03 - A playground to learn regular expressions with Swift.
 * [Swift KVO Closures](https://github.com/rectalogic/KVOPlayground) ⭐ 11 | 🐛 0 | 🌐 Swift | 📅 2014-08-14 - Swift KVO playground. ⏳
-* [Swift Date Tutorial](https://github.com/liuyubobobo/Swift-NSDate-Tutorial) ⭐ 8 | 🐛 0 | 🌐 Swift | 📅 2016-01-04 - Learn everythig about NSDate. ⏳
+* [Swift Date Tutorial](https://github.com/liuyubobobo/Swift-NSDate-Tutorial) ⭐ 9 | 🐛 0 | 🌐 Swift | 📅 2016-01-04 - Learn everythig about NSDate. ⏳
 * [Swift And C](https://github.com/MacMark/SwiftAndC) ⭐ 6 | 🐛 0 | 🌐 Swift | 📅 2015-10-30 - Examples about using C with Swift. ⏳
 * [Swift Memory Management](https://github.com/ndethore/swift-memory-management) ⭐ 3 | 🐛 0 | 🌐 Swift | 📅 2016-01-22 - How to avoid retain cycles, from [this post](http://detho.re/2016/01/21/writing-memory-efficient-swift-code/). ⏳
 
@@ -174,7 +174,7 @@ Apple's playgrounds distributed as zip archives have to be downloaded manually.
 
 *Algorithms and data structures implemented in Swift*
 
-* [Swift Algorithm Club](https://github.com/raywenderlich/swift-algorithm-club) ⭐ 29,044 | 🐛 62 | 🌐 Swift | 📅 2024-12-06 - Algorithms and data structures in Swift with explanations. 🌟
+* [Swift Algorithm Club](https://github.com/raywenderlich/swift-algorithm-club) ⭐ 29,046 | 🐛 62 | 🌐 Swift | 📅 2024-12-06 - Algorithms and data structures in Swift with explanations. 🌟
 * [Expressions](https://github.com/mpangburn/Expressions) ⭐ 395 | 🐛 1 | 🌐 Swift | 📅 2018-02-15 - Arithmetic and logical expressions elegantly modeled and visualized using protocol-oriented binary trees.🍁
 * [Julia Fractal Playground](https://github.com/gongzhang/julia-set-playground#julia-set-playground) ⭐ 261 | 🐛 0 | 🌐 Swift | 📅 2021-11-19 - A Swift playground that generates beautiful Julia set fractal images.
 * [Visual Binary Trees](https://github.com/akpw/VisualBinaryTrees) ⭐ 59 | 🐛 2 | 🌐 Swift | 📅 2025-09-20 - Effortless visualization of arbitrary Binary Trees, along with their pluggable traversal implementations. 🌟
@@ -191,7 +191,7 @@ Apple's playgrounds distributed as zip archives have to be downloaded manually.
 
 *Programming language interpreters implemented in Swift*
 
-* [Write your own language: Mu](https://github.com/marciok/Mu) ⭐ 1,047 | 🐛 1 | 🌐 Swift | 📅 2020-02-06 - A playground explaining how to create a tiny programming language named Mu. 🌟
+* [Write your own language: Mu](https://github.com/marciok/Mu) ⭐ 1,045 | 🐛 1 | 🌐 Swift | 📅 2020-02-06 - A playground explaining how to create a tiny programming language named Mu. 🌟
 * [Introduction to Compilers](https://github.com/ahoppen/introduction-to-compilers) ⭐ 475 | 🐛 0 | 🌐 Swift | 📅 2020-04-09 - Great introduction to the inner workings of compilers. 🍁🌟
 * [Pascal Interpreter](https://github.com/igorkulman/SwiftPascalInterpreter) ⭐ 295 | 🐛 0 | 🌐 Swift | 📅 2022-11-18 - Simple Swift interpreter for the Pascal language inspired by the Let’s Build A Simple Interpreter article series. 🍁
 * [Let's build a compiler in Swift](https://github.com/mkchoi212/LBAC-Swift) ⭐ 163 | 🐛 0 | 🌐 Swift | 📅 2018-01-06 - Let's Build a Compiler by Jack Crenshaw translated to Swift Playgrounds. 🌟
@@ -202,7 +202,7 @@ Apple's playgrounds distributed as zip archives have to be downloaded manually.
 
 ### Machine Learning
 
-* [Emoji Intelligence](https://github.com/BilalReffas/EmojiIntelligence) ⭐ 1,430 | 🐛 0 | 🌐 Swift | 📅 2018-08-21 - Neural Network built in Apple Playground using Swift. 🌟
+* [Emoji Intelligence](https://github.com/BilalReffas/EmojiIntelligence) ⭐ 1,429 | 🐛 0 | 🌐 Swift | 📅 2018-08-21 - Neural Network built in Apple Playground using Swift. 🌟
 
 ## UIKit And Graphics
 
@@ -321,4 +321,4 @@ Apple's playgrounds distributed as zip archives have to be downloaded manually.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-19._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-20._
