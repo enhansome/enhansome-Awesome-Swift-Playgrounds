@@ -121,7 +121,7 @@
             "open_issues": 10,
             "owner": "AudioKit",
             "repo": "Playgrounds",
-            "stars": 196,
+            "stars": 197,
             "topics": []
           },
           "first_seen": "2026-08-29T02:34:18.774Z"
@@ -3711,7 +3711,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-20T01:29:37.975Z",
+    "last_updated": "2026-11-21T00:59:01.379Z",
     "original_repository_info": {
       "archived": false,
       "description": "A List of Awesome Swift Playgrounds",
