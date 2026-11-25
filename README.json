@@ -11,11 +11,11 @@
           "repo_info": {
             "archived": false,
             "description": "Student submissions for the WWDC 2025 - Swift Student Challenge",
-            "homepage": null,
+            "homepage": "https://wwdc.github.io/2025",
             "id": 932771243,
-            "language": "Swift",
+            "language": null,
             "license": null,
-            "last_commit": "2026-08-04T19:24:39Z",
+            "last_commit": "2026-11-24T14:27:01Z",
             "open_issues": 0,
             "owner": "wwdc",
             "repo": "2025",
@@ -39,12 +39,12 @@
           "repo_info": {
             "archived": false,
             "description": "Student submissions for the WWDC 2026 - Swift Student Challenge",
-            "homepage": null,
+            "homepage": "https://wwdc.github.io/2026",
             "id": 1091325619,
-            "language": "Swift",
+            "language": null,
             "license": null,
-            "last_commit": "2026-06-22T17:09:07Z",
-            "open_issues": 3,
+            "last_commit": "2026-11-24T14:27:03Z",
+            "open_issues": 0,
             "owner": "wwdc",
             "repo": "2026",
             "stars": 45,
@@ -3711,7 +3711,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-24T04:29:42.037Z",
+    "last_updated": "2026-11-25T03:14:00.621Z",
     "original_repository_info": {
       "archived": false,
       "description": "A List of Awesome Swift Playgrounds",
