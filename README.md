@@ -55,8 +55,8 @@ Apple's playgrounds distributed as zip archives have to be downloaded manually.
 
 *Playgrounds submitted by students for the WWDC scholarship*
 
-* Past Editions: [2025](https://github.com/wwdc/2025) ⭐ 81 | 🐛 0 | 📅 2026-11-24, [2024](https://github.com/wwdc/2024) ⭐ 6 | 🐛 0 | 📅 2026-11-24, [2023](https://github.com/wwdc/2023) ⭐ 98 | 🐛 0 | 📅 2026-11-24, [2022](https://github.com/wwdc/2022) ⭐ 160 | 🐛 0 | 📅 2026-11-24, [2021](https://github.com/wwdc/2021) ⭐ 184 | 🐛 0 | 📅 2026-11-24, [2020](https://github.com/wwdc/2020) ⭐ 215 | 🐛 0 | 📅 2026-11-24, [2019](https://github.com/wwdc/2019) ⭐ 282 | 🐛 0 | 📅 2026-11-24, [2018](https://github.com/wwdc/2018) ⭐ 265 | 🐛 0 | 📅 2026-11-24, [2017](https://github.com/wwdc/2017) ⭐ 240 | 🐛 0 | 📅 2026-11-24, [2016](https://github.com/wwdc/2016) ⭐ 82 | 🐛 0 | 📅 2026-11-24, [2015](https://github.com/wwdc/2015) ⭐ 132 | 🐛 0 | 📅 2026-11-24, [2014](https://github.com/wwdc/2014) ⭐ 183 | 🐛 0 | 📅 2026-11-24
-* Latest: [2026](https://github.com/wwdc/2026) ⭐ 45 | 🐛 0 | 📅 2026-11-24
+* Past Editions: [2025](https://github.com/wwdc/2025) ⭐ 81 | 🐛 0 | 📅 2026-11-27, [2024](https://github.com/wwdc/2024) ⭐ 6 | 🐛 0 | 📅 2026-11-27, [2023](https://github.com/wwdc/2023) ⭐ 98 | 🐛 0 | 📅 2026-11-27, [2022](https://github.com/wwdc/2022) ⭐ 160 | 🐛 0 | 📅 2026-11-27, [2021](https://github.com/wwdc/2021) ⭐ 184 | 🐛 0 | 📅 2026-11-27, [2020](https://github.com/wwdc/2020) ⭐ 215 | 🐛 0 | 📅 2026-11-27, [2019](https://github.com/wwdc/2019) ⭐ 282 | 🐛 0 | 📅 2026-11-27, [2018](https://github.com/wwdc/2018) ⭐ 265 | 🐛 0 | 📅 2026-11-27, [2017](https://github.com/wwdc/2017) ⭐ 240 | 🐛 0 | 📅 2026-11-27, [2016](https://github.com/wwdc/2016) ⭐ 82 | 🐛 0 | 📅 2026-11-27, [2015](https://github.com/wwdc/2015) ⭐ 132 | 🐛 0 | 📅 2026-11-27, [2014](https://github.com/wwdc/2014) ⭐ 183 | 🐛 0 | 📅 2026-11-27
+* Latest: [2026](https://github.com/wwdc/2026) ⭐ 45 | 🐛 0 | 📅 2026-11-27
 
 ## PlaygroundBooks
 
@@ -202,7 +202,7 @@ Apple's playgrounds distributed as zip archives have to be downloaded manually.
 
 ### Machine Learning
 
-* [Emoji Intelligence](https://github.com/BilalReffas/EmojiIntelligence) ⭐ 1,429 | 🐛 0 | 🌐 Swift | 📅 2018-08-21 - Neural Network built in Apple Playground using Swift. 🌟
+* [Emoji Intelligence](https://github.com/BilalReffas/EmojiIntelligence) ⭐ 1,430 | 🐛 0 | 🌐 Swift | 📅 2018-08-21 - Neural Network built in Apple Playground using Swift. 🌟
 
 ## UIKit And Graphics
 
@@ -321,4 +321,4 @@ Apple's playgrounds distributed as zip archives have to be downloaded manually.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-27._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-28._
